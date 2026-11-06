@@ -4,7 +4,7 @@ root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(root)
 files = ["./", "index.html", "app.css", "app.js", "version.js", "manifest.webmanifest", "icon-180.png", "icon-192.png", "icon-512.png",
          "data/birds.json", "data/regions.json"] + sorted("data/regions/" + f for f in os.listdir("data/regions") if f.endswith(".json")) \
-        + sorted("img/" + f for f in os.listdir("img"))
+        + sorted({b["photos"][0]["src"] for b in json.load(open("data/birds.json"))["birds"]})  # first photo of each bird (tiles); other photos are cached when viewed
 ver = datetime.datetime.now().strftime("%Y.%m.%d-%H%M")
 open("version.js", "w").write(f'window.BSY_VERSION="{ver}";\n')
 sw = open("tools/sw.template.js").read().replace("__VERSION__", ver).replace("__FILES__", json.dumps(files, ensure_ascii=False))
