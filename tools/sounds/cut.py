@@ -58,7 +58,7 @@ def process(xcid,out,qc):
     fi=0.25; fo=min(0.5,L*0.08)
     lp=f"lowpass=f={max(3000,int(band[1]*3))},lowpass=f={max(3000,int(band[1]*3))}," if band[1]<2000 else ""
     af=f"highpass=f={hp},{lp}afade=t=in:st=0:d={fi},afade=t=out:st={L-fo:.2f}:d={fo:.2f},loudnorm=I=-18:TP=-1.5:LRA=11"
-    subprocess.run(["ffmpeg","-v","error","-y","-ss",f"{s:.2f}","-t",f"{L:.2f}","-i",fn,"-af",af,"-ac","1","-ar","44100","-c:a","aac","-b:a","64k","-movflags","+faststart",out],check=True)
+    subprocess.run(["ffmpeg","-v","error","-y","-ss",f"{s:.2f}","-t",f"{L:.2f}","-i",fn,"-map","0:a:0","-af",af,"-ac","1","-ar","44100","-c:a","aac","-b:a","64k","-movflags","+faststart",out],check=True)
     subprocess.run(["ffmpeg","-v","error","-y","-i",out,"-lavfi","showspectrumpic=s=900x220:legend=0:scale=log:fscale=lin:stop=11000:color=viridis",qc],check=True)
     return dict(start=round(s,2),sec=round(L,1),band=[int(band[0]),int(band[1])],dur=round(dur,1))
 if __name__=="__main__":

@@ -100,7 +100,7 @@
     const bird = `<g transform="translate(${w / 2 - 66} ${h * 0.44}) scale(1.15)" stroke="#1C1A21" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"><path d="M30 78 L2 98 L10 70 Z" fill="${colors[0]}"/><path d="M18 70 C18 44 44 30 74 34 C96 38 106 58 98 76 C90 94 62 100 40 94 C28 90 18 82 18 70 Z" fill="${colors[0]}"/><circle cx="90" cy="34" r="20" fill="${colors[0]}"/><path d="M106 28 L126 36 L106 42 Z" fill="#F0D49A"/><path d="M40 58 C56 50 76 54 86 68 C70 78 52 76 40 58 Z" fill="${colors[1]}"/><path d="M56 96 L52 114 M72 96 L74 114" fill="none"/><circle cx="96" cy="30" r="3.5" fill="#1C1A21" stroke="none"/></g>`;
     return `<svg viewBox="-6 -6 ${w + 12} ${h + 12}" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs><clipPath id="${id}"><path d="${arch}"/></clipPath><linearGradient id="${id}s" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity=".2"/></linearGradient></defs><g clip-path="url(#${id})" stroke="#1C1A21" stroke-width="5" stroke-linejoin="round">${panes}${bird}<rect width="${w}" height="${h}" fill="url(#${id}s)" stroke="none"/></g><path d="${arch}" fill="none" stroke="#1C1A21" stroke-width="9"/></svg>`;
   }
-  const PALETTES = { mist: ["#7FA9B8", "#C6DAE0", "#E9E4E7", "#BDB9E2", "#A9C8D1", "#DDE9EC"], sage: ["#6F9D7B", "#BCD7B3", "#E3EDD9", "#C6DAE0", "#A3C79A", "#EDB8C6"], rose: ["#C9667F", "#EDB8C6", "#F5DCE3", "#BDB9E2", "#E9E4E7", "#BCD7B3"] };
+  const PALETTES = { mist: ["#7FA9B8", "#C6DAE0", "#E9E4E7", "#BDB9E2", "#A9C8D1", "#DDE9EC"], sage: ["#6F9D7B", "#BCD7B3", "#E3EDD9", "#C6DAE0", "#A3C79A", "#EDB8C6"], rose: ["#C9667F", "#EDB8C6", "#F5DCE3", "#BDB9E2", "#E9E4E7", "#BCD7B3"], amber: ["#B98522", "#F0D49A", "#FBF0D6", "#EDB8C6", "#C6DAE0", "#BCD7B3"] };
 
   /* ---------- view helpers ---------- */
   function tile(id, ctx) {
@@ -121,13 +121,15 @@
   const SEARCH_SVG = '<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="rgba(198,218,224,.55)" stroke="currentColor" stroke-width="2.4"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"/></svg>';
   const norm = t => (t || "").toLowerCase().replace(/臺/g, "台").replace(/\s+/g, "");
   // tags come only from our own data: endemic/alien flags, region sections (resident / seasonal / lucky) and habitat words
-  const TAG_CHIPS = ["特有種", "候鳥", "留鳥", "濕地", "草地", "高海拔", "城市公園", "幸運星", "外來種"];
+  const TAG_CHIPS = ["特有種", "候鳥", "留鳥", "動物園", "濕地", "草地", "高海拔", "城市公園", "幸運星", "外來種"];
   let TAGS = null;
   function birdTags() {
     if (TAGS) return TAGS; TAGS = {};
     const add = (id, t) => { (TAGS[id] = TAGS[id] || new Set()).add(t); };
     const common = new Set(), seas = {}, lucky = new Set(), inR = {};
+    const zooIds = new Set();
     Object.values(REGIONS).forEach(r => r.sections.forEach(sec => sec.birds.forEach(e => {
+      if (r.kind === "zoo") { zooIds.add(e.id); return; }
       (inR[e.id] = inR[e.id] || new Set()).add(r.id);
       if (sec.type === "common") common.add(e.id);
       if (sec.type === "lucky") lucky.add(e.id);
@@ -135,6 +137,8 @@
     })));
     ORDER.forEach(id => { const b = BIRDS[id], rs = inR[id] || new Set(), hab = (b.habitat || []).join("");
       if (b.endemic) add(id, "特有種"); if (b.alien) add(id, "外來種");
+      if (zooIds.has(id)) Object.values(REGIONS).forEach(r => r.kind === "zoo" && add(id, r.name));
+      if (!inR[id]) return;   // only kept in the zoo: no wild status or habitat tags
       if (common.has(id) || !seas[id]) add(id, "留鳥");
       else { const ss = seas[id], has_ = x => ss.has(x);
         if (has_("冬") || (has_("秋") && !has_("夏"))) add(id, has_("春") && has_("秋") && !has_("冬") ? "過境候鳥" : "冬候鳥");
@@ -160,7 +164,7 @@
         else { const hit = tags.filter(g => norm(g).includes(t)); if (!hit.length) return; score += 3; why.push(...hit); }
       }
       out.push({ b, score, why: [...new Set(why)] }); });
-    return out.sort((x, y) => x.score - y.score).slice(0, 60);
+    return out.sort((x, y) => x.score - y.score).slice(0, 120);
   }
   function openSearch() {
     if (document.querySelector(".search-sheet")) return;
@@ -286,7 +290,7 @@
     }).join("");
     const mis = missionsFor(r).map(id => `<button class="mchip ${has(id) ? "got" : ""}" type="button" data-open="${id}" data-ctx="${rid}"><img src="${BIRDS[id].photos[0].src}" alt="">${esc(BIRDS[id].zh)}${has(id) ? `<span class="mini">${STAMP_SVG}</span>` : ""}</button>`).join("");
     app.innerHTML = bar(["#/", "首頁"], r.full, `${nGot(ids)} / ${ids.length}`, ids.join(",")) + `<main class="wrap ${TONE[r.tone] || ""}">
-      <section class="rhead"><div class="pane">${glassSVG(rid, PALETTES[r.tone] || PALETTES.mist, 300, 400)}</div><div><p class="eyebrow">賞鳥區</p><h2>${esc(r.name)}</h2><p class="full">${esc(r.full)}</p><p class="tg">${esc(r.tagline)}</p></div></section>
+      <section class="rhead"><div class="pane">${glassSVG(rid, PALETTES[r.tone] || PALETTES.mist, 300, 400)}</div><div><p class="eyebrow">${r.kind === "zoo" ? "動物園的鳥" : "賞鳥區"}</p><h2>${esc(r.name)}</h2><p class="full">${esc(r.full)}</p><p class="tg">${esc(r.tagline)}</p></div></section>
       <dl class="glass double info">${r.info.map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${esc(v)}${k === "交通" && r.map ? `<a class="maplink" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(r.map)}" target="_blank" rel="noopener">在 Google 地圖打開 ↗</a>` : ""}${k === "開放" && r.site ? `<a class="maplink" href="${esc(r.site)}" target="_blank" rel="noopener">出發前看官方公告 ↗</a>` : ""}</dd></div>`).join("")}</dl>
       ${r.tips && r.tips.length ? `<ul class="glass tips">${r.tips.map(t => `<li>${esc(t)}</li>`).join("")}</ul>` : ""}
       <section class="missions"><h3>今天的任務鳥 <span class="muted" style="font-size:13px">${nowSeason()}天・先找容易遇到的</span></h3>${mis ? `<div class="mrow">${mis}</div>` : `<p class="empty">這一季的鳥都收集到了，太厲害了！</p>`}</section>
@@ -296,7 +300,7 @@
 
   // 3 missions: in season, not collected yet, easiest first (common → seasonal → lucky), data-listed missions first within a tier
   function missionsFor(r) {
-    const ss = nowSeason(), tier = { common: 0, seasonal: 1, lucky: 2 }, pref = r.missions || [], seen = new Set(), pool = [];
+    const ss = nowSeason(), tier = { common: 0, area: 1, seasonal: 1, lucky: 2 }, pref = r.missions || [], seen = new Set(), pool = [];
     r.sections.forEach(s => s.birds.forEach((b, i) => {
       if (seen.has(b.id) || !BIRDS[b.id]) return;
       if (b.seasons && !b.seasons.includes(ss)) return;
@@ -324,9 +328,9 @@
         <span class="hint" ${got ? "hidden" : ""}>我看到了</span></figure>`; }).join("");
     const nSp = Math.max(1, Math.round(b.cm / 14));
     const where = RORDER.map(rid => { const r = REGIONS[rid]; for (const s of r.sections) { const e = s.birds.find(x => x.id === id);
-        if (e) return `<div class="wr"><button class="pill ${TONE[r.tone]}" type="button" data-go="#/r/${rid}">${esc(r.name)}</button><span>${esc(s.title)}${e.seasons ? "・" + e.seasons.join("") : "・全年"}</span></div>`; } return ""; }).join("");
+        if (e) return `<div class="wr"><button class="pill ${TONE[r.tone]}" type="button" data-go="#/r/${rid}">${esc(r.name)}</button><span>${esc(s.title)}${e.seasons ? "・" + e.seasons.join("") : r.kind === "zoo" ? "" : "・全年"}</span></div>`; } return ""; }).join("");
     app.innerHTML = bar(backT, b.zh, list.length > 1 ? `${i + 1} / ${list.length}` : "") + `<main class="wrap ${tone}" id="birdpage">
-      <header class="bhead"><h2>${esc(b.zh)}</h2><p class="en">${esc(b.en)} · <span class="sci">${esc(b.sci)}</span></p>${b.alias && b.alias.length ? `<p class="en">也叫：${b.alias.map(esc).join("、")}</p>` : ""}
+      <header class="bhead"><h2>${esc(b.zh)}</h2><p class="en">${esc(b.en)} · <span class="sci">${esc(b.sci)}</span></p>${b.alias && b.alias.length ? `<p class="en">也叫：${b.alias.map(esc).join("、")}</p>` : ""}${b.home ? `<p class="home"><b>故鄉</b>${esc(b.home)}</p>` : ""}
         <div class="bflags">${b.endemic ? '<span class="flag">台灣特有種</span>' : ""}${b.alien ? '<span class="flag alien">外來種</span>' : ""}</div></header>
       ${(b.sounds || []).length ? `<div class="sounds" role="group" aria-label="聽聽看">${b.sounds.slice(0, 5).map((x, k) => `<div class="snd-item"><button type="button" class="snd k${SND_KIND[x.kind] || 0}" data-snd="${x.src}" data-sec="${x.sec}"${x.gain && x.gain !== 1 ? ` data-gain="${x.gain}"` : ""} aria-pressed="false" aria-label="播放${esc(b.zh + x.kind)}"><i class="ic" aria-hidden="true"></i><span class="kd">${esc(x.kind)}</span><span class="tm">${fmtSec(x.sec)}</span></button><span class="city">${esc(x.city || "")}</span></div>`).join("")}</div>` : ""}
       <div class="photos">${photos}</div>

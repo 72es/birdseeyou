@@ -5,7 +5,7 @@
 
 ## 架構
 - 靜態網站：`index.html`、`app.js`（全部邏輯）、`app.css`（全部樣式）。hash 路由：`#/`、`#/all`、`#/r/{區域}`、`#/b/{鳥}/{來源}`、`#/me`、`#/wish`。
-- 資料：`data/birds.json`（108 種鳥：名稱、介紹、故事、認鳥重點、公母、相簿 photos、叫聲 sounds、like/key 易混淆）、`data/regions.json`（首頁順序 城市→關渡→大雪山、回饋表單 endpoint）、`data/regions/*.json`。
+- 資料：`data/birds.json`（175 種鳥：名稱、介紹、故事、認鳥重點、公母、相簿 photos、叫聲 sounds、like/key 易混淆）、`data/regions.json`（首頁順序 城市→關渡→大雪山→動物園、回饋表單 endpoint）、`data/regions/*.json`。
 - 照片 `img/`：iNaturalist CC 授權，每張都要目視確認物種和公母，台灣照片優先。每個公/母/成鳥/幼鳥相簿最多 5 張。
 - 叫聲 `snd/`：xeno-canto（台灣錄音優先）＋ iNaturalist（鵲鴒、白尾八哥，xeno-canto 限制物種）。一般授權的錄音剪成 5–15 秒；ND（禁止改作）授權的只轉格式、不剪，`original: true`，播放音量用 `gain` 在播放器調整。流程見 `tools/sounds/README.md`。xeno-canto API 金鑰只能用環境變數 `XC_KEY`，絕不能 commit。
 - 紀錄存在使用者手機 localStorage `bsy-v1`（不上雲端），靠「我的」頁的家庭備份碼搬移。
@@ -14,6 +14,11 @@
 ## 每次修改後
 1. `python3 tools/build_sw.py`（更新離線快取清單與版本號，必做）。
 2. commit 後 push 到 main，約 1 分鐘上線；用 `curl https://72es.github.io/birdseeyou/version.js` 確認版本。
+
+## 動物園區（`data/regions/zoo.json`，`kind: "zoo"`）
+- 臺北市立動物園：名單來自臺北市開放資料「臺北市立動物園_動物資料」（data.taipei），依館區分區（區塊 type `area`）。
+- 籠養鳥有 `home`（故鄉）欄位，鳥頁名字下方顯示「故鄉」。蓋章算進總收集數（Ben 決定）。
+- 只在動物園的鳥不產生野外標籤（留鳥、濕地…），只有「動物園」標籤；照片優先用原生地的野外照片。
 
 ## Ben 已定案的設計
 - 美術：透光彩繪玻璃風格，色票在 app.css `:root`。

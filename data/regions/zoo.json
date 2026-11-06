@@ -1,0 +1,348 @@
+{
+ "id": "zoo",
+ "kind": "zoo",
+ "name": "動物園",
+ "full": "臺北市立動物園",
+ "tagline": "世界各地的鳥・一天看遍企鵝、紅鶴和鸚鵡",
+ "tone": "amber",
+ "info": [
+  [
+   "地點",
+   "台北市文山區新光路二段 30 號"
+  ],
+  [
+   "開放",
+   "每天 09:00–17:00，16:00 停止入園；室內館每月固定一個週一公休（穿山甲館、企鵝館是第 2 個週一）"
+  ],
+  [
+   "門票",
+   "全票 NT$100、臺北市民 NT$60、優待票 NT$50；兒童優待資格以官網為準"
+  ],
+  [
+   "交通",
+   "捷運文湖線「動物園站」，出站走路約 3 分鐘到正門"
+  ],
+  [
+   "鳥園",
+   "在園區比較裡面，從正門走過去約 20–30 分鐘，可以搭園區遊客列車（NT$5）"
+  ]
+ ],
+ "tips": [
+  "鳥園有水禽區和生態鳥園兩個網室，可以走進去看，進出都要踩消毒墊",
+  "企鵝館、穿山甲館在室內，下雨天也能看鳥；記得避開公休的週一",
+  "牠們都是動物園照顧的鳥，不要敲玻璃、不要餵食",
+  "名單根據臺北市政府開放資料「臺北市立動物園_動物資料」整理，動物可能因繁殖、交換而調整，以現場為準"
+ ],
+ "missions": [
+  "gr_flamingo",
+  "king_penguin",
+  "peafowl"
+ ],
+ "sections": [
+  {
+   "type": "common",
+   "title": "必看明星",
+   "sub": "第一次來就從這裡開始",
+   "birds": [
+    {
+     "id": "gr_flamingo"
+    },
+    {
+     "id": "white_pelican"
+    },
+    {
+     "id": "peafowl"
+    },
+    {
+     "id": "gr_crowned_crane"
+    },
+    {
+     "id": "rc_crane"
+    },
+    {
+     "id": "king_penguin"
+    },
+    {
+     "id": "af_penguin"
+    },
+    {
+     "id": "ostrich"
+    },
+    {
+     "id": "emu"
+    },
+    {
+     "id": "cassowary"
+    },
+    {
+     "id": "bluegold_macaw"
+    },
+    {
+     "id": "toco_toucan"
+    },
+    {
+     "id": "great_hornbill"
+    },
+    {
+     "id": "black_swan"
+    }
+   ]
+  },
+  {
+   "type": "area",
+   "title": "水禽區",
+   "sub": "鳥園・走進網室看水鳥",
+   "birds": [
+    {
+     "id": "ch_flamingo"
+    },
+    {
+     "id": "pink_pelican"
+    },
+    {
+     "id": "bn_swan"
+    },
+    {
+     "id": "egyptian_goose"
+    },
+    {
+     "id": "wood_duck"
+    },
+    {
+     "id": "mandarin"
+    },
+    {
+     "id": "mallard"
+    },
+    {
+     "id": "sacred_ibis"
+    },
+    {
+     "id": "marabou"
+    },
+    {
+     "id": "spoonbill"
+    },
+    {
+     "id": "striated_heron"
+    },
+    {
+     "id": "moorhen"
+    }
+   ]
+  },
+  {
+   "type": "area",
+   "title": "鶴園",
+   "sub": "鳥園・世界各地的鶴",
+   "birds": [
+    {
+     "id": "wn_crane"
+    },
+    {
+     "id": "hooded_crane"
+    },
+    {
+     "id": "common_crane"
+    },
+    {
+     "id": "sarus_crane"
+    },
+    {
+     "id": "demoiselle_crane"
+    },
+    {
+     "id": "bk_crowned_crane"
+    }
+   ]
+  },
+  {
+   "type": "area",
+   "title": "雉雞與珍禽",
+   "sub": "鳥園・漂亮的雉雞",
+   "birds": [
+    {
+     "id": "argus"
+    },
+    {
+     "id": "golden_pheasant"
+    },
+    {
+     "id": "ringneck_pheasant"
+    },
+    {
+     "id": "grey_junglefowl"
+    },
+    {
+     "id": "green_junglefowl"
+    },
+    {
+     "id": "palawan_pp"
+    },
+    {
+     "id": "edwards_pheasant"
+    },
+    {
+     "id": "gr_curassow"
+    }
+   ]
+  },
+  {
+   "type": "area",
+   "title": "鸚鵡屋",
+   "sub": "鳥園・彩色的鸚鵡",
+   "birds": [
+    {
+     "id": "um_cockatoo"
+    },
+    {
+     "id": "sc_cockatoo"
+    },
+    {
+     "id": "galah"
+    },
+    {
+     "id": "palm_cockatoo"
+    },
+    {
+     "id": "eclectus"
+    },
+    {
+     "id": "rr_parakeet"
+    },
+    {
+     "id": "yh_amazon"
+    },
+    {
+     "id": "bf_amazon"
+    },
+    {
+     "id": "yn_amazon"
+    },
+    {
+     "id": "greenwing_macaw"
+    }
+   ]
+  },
+  {
+   "type": "area",
+   "title": "生態鳥園",
+   "sub": "鳥園・鳩鴿、蕉鵑和林間小鳥",
+   "birds": [
+    {
+     "id": "victoria_cp"
+    },
+    {
+     "id": "blue_cp"
+    },
+    {
+     "id": "nicobar_pigeon"
+    },
+    {
+     "id": "pied_ip"
+    },
+    {
+     "id": "emerald_dove"
+    },
+    {
+     "id": "crested_pigeon"
+    },
+    {
+     "id": "violet_turaco"
+    },
+    {
+     "id": "green_turaco"
+    },
+    {
+     "id": "kookaburra"
+    },
+    {
+     "id": "myna"
+    },
+    {
+     "id": "common_myna"
+    }
+   ]
+  },
+  {
+   "type": "area",
+   "title": "猛禽與貓頭鷹",
+   "sub": "鳥園・老鷹和夜行性的鳥",
+   "birds": [
+    {
+     "id": "brahminy_kite"
+    },
+    {
+     "id": "serpent_eagle"
+    },
+    {
+     "id": "hawk_eagle"
+    },
+    {
+     "id": "tawny_fowl"
+    },
+    {
+     "id": "brown_wo"
+    },
+    {
+     "id": "scops"
+    }
+   ]
+  },
+  {
+   "type": "area",
+   "title": "台灣的鳥",
+   "sub": "鳥園與台灣動物區",
+   "birds": [
+    {
+     "id": "blue_magpie"
+    },
+    {
+     "id": "barbet"
+    },
+    {
+     "id": "swinhoe"
+    },
+    {
+     "id": "mikado"
+    },
+    {
+     "id": "bamboo_partridge"
+    },
+    {
+     "id": "ashy_wp"
+    },
+    {
+     "id": "lb_crow"
+    },
+    {
+     "id": "turtle_dove"
+    },
+    {
+     "id": "red_dove"
+    }
+   ]
+  },
+  {
+   "type": "area",
+   "title": "熱帶雨林室內館",
+   "sub": "穿山甲館・室內",
+   "birds": [
+    {
+     "id": "scarlet_ibis"
+    },
+    {
+     "id": "rb_lory"
+    },
+    {
+     "id": "ysc_cockatoo"
+    },
+    {
+     "id": "bt_beeeater"
+    }
+   ]
+  }
+ ],
+ "map": "臺北市立動物園",
+ "site": "https://www.zoo.gov.taipei/"
+}

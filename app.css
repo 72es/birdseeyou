@@ -336,3 +336,5 @@ body.noscroll{overflow:hidden}
 .snd .kd{font-weight:600}
 .snd .tm{font-variant-numeric:tabular-nums;font-family:var(--latin);font-size:13px;min-width:2.3em;text-align:right}
 .snd-item .city{font-size:12px;color:var(--muted);line-height:1}
+.bhead .home{margin:4px 0 0;font-size:14px;color:var(--ink);display:flex;gap:8px;align-items:baseline}
+.bhead .home b{font-size:12px;font-weight:600;background:var(--amber);border:1.5px solid var(--lead);border-radius:999px;padding:0 8px;flex:none}

@@ -13293,6 +13293,6812 @@
      "xc": "xeno-canto XC559096"
     }
    ]
+  },
+  {
+   "id": "gr_flamingo",
+   "zh": "大紅鶴",
+   "en": "Greater Flamingo",
+   "sci": "Phoenicopterus roseus",
+   "cm": 130,
+   "habitat": [
+    "淺水"
+   ],
+   "intro": "粉紅色的大長腿鳥，常常一隻腳站著睡覺。",
+   "story": "紅鶴的粉紅色是吃出來的！牠們吃的小蝦和藻類裡有紅色素，吃越多越粉紅。剛出生的小紅鶴是灰色的。",
+   "cues": [
+    "粉紅色的身體，脖子又長又彎",
+    "嘴巴很粗，中間彎下去，尖端是黑色",
+    "常常一隻腳站著"
+   ],
+   "sex": "公鳥母鳥長得一樣，公鳥比較高大。小鳥是灰褐色的，長大慢慢變粉紅。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "非洲、南歐、中東到印度的鹹水湖",
+   "like": [
+    "ch_flamingo"
+   ],
+   "photos": [
+    {
+     "src": "img/gr_flamingo-0.jpg",
+     "label": "",
+     "by": "Kat Milligan",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/54272276",
+     "w": 375,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/gr_flamingo-1.jpg",
+     "label": "",
+     "by": "Irene",
+     "license": "CC0",
+     "url": "https://www.inaturalist.org/photos/722790411",
+     "w": 456,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/gr_flamingo-2.jpg",
+     "label": "",
+     "by": "Randy Floyd",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/383738443",
+     "w": 500,
+     "h": 414,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/gr_flamingo-3.jpg",
+     "label": "",
+     "by": "Henggang Cui",
+     "license": "CC0",
+     "url": "https://www.inaturalist.org/photos/327050524",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/gr_flamingo-0.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "葡萄牙",
+     "by": "Nelson Conceição",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/551531",
+     "xc": "xeno-canto XC551531"
+    },
+    {
+     "src": "snd/gr_flamingo-1.m4a",
+     "kind": "叫聲",
+     "sec": 12,
+     "city": "法國",
+     "by": "Clément Bruneau",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1165204",
+     "xc": "xeno-canto XC1165204"
+    },
+    {
+     "src": "snd/gr_flamingo-2.m4a",
+     "kind": "叫聲",
+     "sec": 9,
+     "city": "義大利",
+     "by": "Romuald Mikusek",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/696565",
+     "xc": "xeno-canto XC696565"
+    },
+    {
+     "src": "snd/gr_flamingo-3.m4a",
+     "kind": "警戒聲",
+     "sec": 15,
+     "city": "西班牙",
+     "by": "SonoNatura",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/721989",
+     "xc": "xeno-canto XC721989"
+    },
+    {
+     "src": "snd/gr_flamingo-4.m4a",
+     "kind": "飛行聲",
+     "sec": 14,
+     "city": "法國",
+     "by": "Stanislas Wroza",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/793072",
+     "xc": "xeno-canto XC793072"
+    }
+   ]
+  },
+  {
+   "id": "white_pelican",
+   "zh": "白鵜鶘",
+   "en": "Great White Pelican",
+   "sci": "Pelecanus onocrotalus",
+   "cm": 160,
+   "habitat": [
+    "湖泊",
+    "水面"
+   ],
+   "intro": "很大的白色水鳥，嘴巴下面有一個可以撐得超大的皮袋子。",
+   "story": "鵜鶘抓魚的時候，會把嘴巴當網子，連水帶魚一起舀起來，再把水擠出去，只把魚吞下。牠們還會好幾隻排成一排，一起把魚趕到淺水區。",
+   "cues": [
+    "全身白色，嘴巴又長又大",
+    "嘴巴下面有黃色的大皮袋",
+    "在水上浮著的時候像一艘小船"
+   ],
+   "sex": "公鳥母鳥長得一樣，公鳥比較大。年輕的鵜鶘是灰褐色的。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "非洲、東歐到中亞的大湖",
+   "like": [
+    "pink_pelican"
+   ],
+   "photos": [
+    {
+     "src": "img/white_pelican-0.jpg",
+     "label": "",
+     "by": "David Kidwell",
+     "license": "CC BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/407844113",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/white_pelican-1.jpg",
+     "label": "",
+     "by": "Gabi Rusu",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/406852803",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/white_pelican-2.jpg",
+     "label": "",
+     "by": "marsyd",
+     "license": "CC0",
+     "url": "https://www.inaturalist.org/photos/396164372",
+     "w": 500,
+     "h": 385,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/white_pelican-3.jpg",
+     "label": "",
+     "by": "Mark Dennis",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/458456685",
+     "w": 500,
+     "h": 388,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/white_pelican-0.m4a",
+     "kind": "叫聲",
+     "sec": 9,
+     "city": "英國",
+     "by": "David Darrell-Lambert",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1083380",
+     "xc": "xeno-canto XC1083380"
+    },
+    {
+     "src": "snd/white_pelican-1.m4a",
+     "kind": "飛行聲",
+     "sec": 11,
+     "city": "塞內加爾",
+     "by": "Bram Piot",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/343693",
+     "xc": "xeno-canto XC343693"
+    }
+   ]
+  },
+  {
+   "id": "peafowl",
+   "zh": "藍孔雀",
+   "en": "Indian Peafowl",
+   "sci": "Pavo cristatus",
+   "cm": 110,
+   "habitat": [
+    "林緣",
+    "草地"
+   ],
+   "intro": "公孔雀身上是亮亮的寶藍色，還有一大片長滿「眼睛」的尾巴。",
+   "story": "公孔雀開屏，是在跟母孔雀說「看我！」。那片大扇子其實不是尾巴，是背上長出來的長羽毛，真正的尾巴藏在下面撐著它。",
+   "cues": [
+    "公鳥寶藍色，頭上有一撮小皇冠",
+    "長長的羽毛上有很多像眼睛的圓點",
+    "叫聲很大聲，像在喊「啊—喔」"
+   ],
+   "sex": "公鳥全身寶藍色，有一大片長長的尾羽；母鳥是灰褐色，脖子帶一點綠，尾巴短短的。",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "印度、斯里蘭卡的森林和村莊",
+   "photos": [
+    {
+     "src": "img/peafowl-0.jpg",
+     "label": "公",
+     "by": "Daniel V Raju",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/102365415",
+     "w": 500,
+     "h": 364,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/peafowl-1.jpg",
+     "label": "公",
+     "by": "Samay Srivastava",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/708925922",
+     "w": 500,
+     "h": 298,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/peafowl-2.jpg",
+     "label": "公",
+     "by": "Uday Agashe",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/286489794",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/peafowl-3.jpg",
+     "label": "公",
+     "by": "Parth Kansara",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/307026691",
+     "w": 400,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/peafowl-4.jpg",
+     "label": "母",
+     "by": "Yuwaraj Gurjar",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/402399845",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/peafowl-5.jpg",
+     "label": "母",
+     "by": "Sriram Ranganathan",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/88842185",
+     "w": 486,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/peafowl-6.jpg",
+     "label": "母",
+     "by": "Dany Sloan",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/181601433",
+     "w": 500,
+     "h": 425,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/peafowl-0.m4a",
+     "kind": "唱歌",
+     "sec": 12,
+     "city": "斯里蘭卡",
+     "by": "Uku Paal",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1096596",
+     "xc": "xeno-canto XC1096596"
+    },
+    {
+     "src": "snd/peafowl-1.m4a",
+     "kind": "唱歌",
+     "sec": 9,
+     "city": "印度",
+     "by": "Christian Kerihuel",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1077506",
+     "xc": "xeno-canto XC1077506"
+    },
+    {
+     "src": "snd/peafowl-2.m4a",
+     "kind": "叫聲",
+     "sec": 15,
+     "city": "印度",
+     "by": "David Darrell-Lambert",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/979542",
+     "xc": "xeno-canto XC979542"
+    },
+    {
+     "src": "snd/peafowl-3.m4a",
+     "kind": "警戒聲",
+     "sec": 11,
+     "city": "印度",
+     "by": "Andrew Mascarenhas",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/343013",
+     "xc": "xeno-canto XC343013"
+    }
+   ]
+  },
+  {
+   "id": "gr_crowned_crane",
+   "zh": "灰冠鶴",
+   "en": "Grey Crowned Crane",
+   "sci": "Balearica regulorum",
+   "cm": 105,
+   "habitat": [
+    "草原",
+    "溼地"
+   ],
+   "intro": "頭上戴著一頂金色的刷子皇冠，臉頰白白的，脖子是灰色。",
+   "story": "灰冠鶴是烏干達的國鳥，國旗上就有牠。牠們求偶的時候會一起跳舞，又跳又鞠躬，還會把小樹枝丟到空中。",
+   "cues": [
+    "頭上有一大撮金色的冠毛",
+    "臉頰白色，上面還有一小塊紅色",
+    "脖子是淺灰色"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "非洲東部和南部的草原、溼地",
+   "like": [
+    "bk_crowned_crane"
+   ],
+   "photos": [
+    {
+     "src": "img/gr_crowned_crane-0.jpg",
+     "label": "",
+     "by": "tnaturalist",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/331709731",
+     "w": 500,
+     "h": 422,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/gr_crowned_crane-1.jpg",
+     "label": "",
+     "by": "tjeerd",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/261408493",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/gr_crowned_crane-2.jpg",
+     "label": "",
+     "by": "Peter Vos",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/25276351",
+     "w": 500,
+     "h": 384,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/gr_crowned_crane-3.jpg",
+     "label": "",
+     "by": "Greg Lasley",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/27562162",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/gr_crowned_crane-0.m4a",
+     "kind": "唱歌",
+     "sec": 7,
+     "city": "坦尚尼亞",
+     "by": "isaac kilusu",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/982990",
+     "xc": "xeno-canto XC982990"
+    },
+    {
+     "src": "snd/gr_crowned_crane-1.m4a",
+     "kind": "飛行聲",
+     "sec": 9,
+     "city": "肯亞",
+     "by": "Lars Lachmann",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/724083",
+     "xc": "xeno-canto XC724083"
+    }
+   ]
+  },
+  {
+   "id": "rc_crane",
+   "zh": "丹頂鶴",
+   "en": "Red-crowned Crane",
+   "sci": "Grus japonensis",
+   "cm": 150,
+   "habitat": [
+    "溼地"
+   ],
+   "intro": "白色的大鶴，頭頂有一塊紅紅的皮膚，像戴了一頂小紅帽。",
+   "story": "丹頂鶴頭頂的紅色不是羽毛，是露出來的皮膚。牠們一輩子都跟同一個伴侶在一起，常常一起仰頭大叫，聲音可以傳很遠。",
+   "cues": [
+    "全身白色，頭頂一塊紅色",
+    "脖子和翅膀後面的羽毛是黑色",
+    "站起來比小朋友還高"
+   ],
+   "sex": "公鳥母鳥長得一樣。小鶴是褐色的，頭頂還沒有紅色。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "日本北海道、中國東北、韓國的溼地",
+   "like": [
+    "wn_crane",
+    "hooded_crane"
+   ],
+   "photos": [
+    {
+     "src": "img/rc_crane-0.jpg",
+     "label": "",
+     "by": "Christoph Moning",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/102480805",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/rc_crane-1.jpg",
+     "label": "",
+     "by": "desertnaturalist",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/106272207",
+     "w": 500,
+     "h": 334,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/rc_crane-2.jpg",
+     "label": "",
+     "by": "petrahallbauer",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/256386280",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/rc_crane-3.jpg",
+     "label": "",
+     "by": "Royle Safaris",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/416195792",
+     "w": 500,
+     "h": 301,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/rc_crane-0.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "中國",
+     "by": "He Wenjin",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/769370",
+     "xc": "xeno-canto XC769370"
+    },
+    {
+     "src": "snd/rc_crane-1.m4a",
+     "kind": "唱歌",
+     "sec": 12,
+     "city": "日本",
+     "by": "D.Farrow",
+     "license": "CC BY-NC-SA 3.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+     "url": "https://xeno-canto.org/49791",
+     "xc": "xeno-canto XC49791"
+    },
+    {
+     "src": "snd/rc_crane-2.m4a",
+     "kind": "警戒聲",
+     "sec": 10,
+     "city": "日本",
+     "by": "Amar-Singh HSS",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/492214",
+     "xc": "xeno-canto XC492214"
+    },
+    {
+     "src": "snd/rc_crane-3.m4a",
+     "kind": "飛行聲",
+     "sec": 15,
+     "city": "日本",
+     "by": "Barry Edmonston",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/897964",
+     "xc": "xeno-canto XC897964"
+    }
+   ]
+  },
+  {
+   "id": "king_penguin",
+   "zh": "國王企鵝",
+   "en": "King Penguin",
+   "sci": "Aptenodytes patagonicus",
+   "cm": 95,
+   "habitat": [
+    "海岸",
+    "海洋"
+   ],
+   "intro": "很高的企鵝，耳朵旁邊和胸口有亮亮的橘黃色。",
+   "story": "國王企鵝不做巢，爸爸媽媽輪流把蛋放在腳背上，用肚子下面的皮蓋住保暖，一站就是好幾個星期。",
+   "cues": [
+    "耳朵旁邊有橘黃色的斑",
+    "胸口上方是淡淡的黃色",
+    "是動物園裡最高的企鵝"
+   ],
+   "sex": "公鳥母鳥長得一樣。小企鵝全身是咖啡色的蓬蓬毛，看起來比爸媽還胖。",
+   "tag": "公母同型・成幼不同",
+   "endemic": false,
+   "alien": false,
+   "home": "南極周圍的島嶼和南方的冰冷海洋",
+   "like": [
+    "af_penguin"
+   ],
+   "photos": [
+    {
+     "src": "img/king_penguin-0.jpg",
+     "label": "",
+     "by": "Oscar Thomas",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/243750848",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/king_penguin-1.jpg",
+     "label": "",
+     "by": "Sebastien TRACLET",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/355588135",
+     "w": 375,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/king_penguin-2.jpg",
+     "label": "",
+     "by": "elsa Freschet",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/475724875",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/king_penguin-3.jpg",
+     "label": "",
+     "by": "Paul Steeves",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/112203914",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/king_penguin-0.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "英國",
+     "by": "Meena Haribal",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1078320",
+     "xc": "xeno-canto XC1078320"
+    },
+    {
+     "src": "snd/king_penguin-1.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "澳洲",
+     "by": "Sander Lagerveld",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/396250",
+     "xc": "xeno-canto XC396250"
+    },
+    {
+     "src": "snd/king_penguin-2.m4a",
+     "kind": "叫聲",
+     "sec": 8,
+     "city": "南極",
+     "by": "George Wagner",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/332008",
+     "xc": "xeno-canto XC332008"
+    }
+   ]
+  },
+  {
+   "id": "af_penguin",
+   "zh": "黑腳企鵝",
+   "en": "African Penguin",
+   "sci": "Spheniscus demersus",
+   "cm": 65,
+   "habitat": [
+    "海岸",
+    "海洋"
+   ],
+   "intro": "住在非洲的企鵝，臉上有一條白色的眉毛，胸口有一圈黑色的帶子。",
+   "story": "黑腳企鵝住在溫暖的非洲海邊，不是冰天雪地。牠們的叫聲很像驢子，所以也有人叫牠們「驢叫企鵝」。",
+   "cues": [
+    "臉上有白色的眉線",
+    "胸口有一條黑色的帶子",
+    "眼睛上面有一小塊粉紅色的皮膚"
+   ],
+   "sex": "公鳥母鳥長得一樣，每隻胸口的黑色小點都不一樣，像指紋。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "非洲南部的海岸",
+   "like": [
+    "king_penguin"
+   ],
+   "photos": [
+    {
+     "src": "img/af_penguin-0.jpg",
+     "label": "",
+     "by": "Hamish Robertson",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/245254722",
+     "w": 401,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/af_penguin-1.jpg",
+     "label": "",
+     "by": "René Hodges",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/68384796",
+     "w": 363,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/af_penguin-2.jpg",
+     "label": "",
+     "by": "Rémi Cardinael",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/37529473",
+     "w": 500,
+     "h": 331,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/af_penguin-3.jpg",
+     "label": "",
+     "by": "Phillip Nieuwoudt",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/499971241",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/af_penguin-0.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "南非",
+     "by": "Bernabe Lopez-Lanus",
+     "license": "CC BY-NC-SA 3.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+     "url": "https://xeno-canto.org/45149",
+     "xc": "xeno-canto XC45149"
+    },
+    {
+     "src": "snd/af_penguin-1.m4a",
+     "kind": "叫聲",
+     "sec": 15,
+     "city": "南非",
+     "by": "Jorge de Leon Cardozo &amp; Susan Hochgraf",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/434500",
+     "xc": "xeno-canto XC434500"
+    }
+   ]
+  },
+  {
+   "id": "ostrich",
+   "zh": "鴕鳥",
+   "en": "Common Ostrich",
+   "sci": "Struthio camelus",
+   "cm": 230,
+   "habitat": [
+    "草原",
+    "沙漠"
+   ],
+   "intro": "世界上最大的鳥，不會飛，但跑得比汽車在市區開得還快。",
+   "story": "鴕鳥的蛋是世界上最大的鳥蛋，一顆差不多等於 24 顆雞蛋。牠們每隻腳只有兩根腳趾，跑起來一步可以跨好幾公尺。",
+   "cues": [
+    "非常高大，脖子很長",
+    "公鳥黑白色，母鳥灰褐色",
+    "不會飛，用兩隻大長腿走路"
+   ],
+   "sex": "公鳥身體黑色、翅膀和尾巴白色；母鳥全身灰褐色。",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "非洲的草原和沙漠",
+   "like": [
+    "emu"
+   ],
+   "photos": [
+    {
+     "src": "img/ostrich-0.jpg",
+     "label": "公",
+     "by": "tensionstudios",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/460044775",
+     "w": 447,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/ostrich-1.jpg",
+     "label": "公",
+     "by": "Dave Brown",
+     "license": "CC0",
+     "url": "https://www.inaturalist.org/photos/97591380",
+     "w": 500,
+     "h": 416,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/ostrich-2.jpg",
+     "label": "公",
+     "by": "Jean-Paul Boerekamps",
+     "license": "CC0",
+     "url": "https://www.inaturalist.org/photos/110412944",
+     "w": 500,
+     "h": 409,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/ostrich-3.jpg",
+     "label": "母",
+     "by": "Leoš Smutný a Antonín Horáček",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/587399082",
+     "w": 500,
+     "h": 281,
+     "retrieved": "2026-11"
+    }
+   ]
+  },
+  {
+   "id": "emu",
+   "zh": "鴯鶓",
+   "en": "Emu",
+   "sci": "Dromaius novaehollandiae",
+   "cm": 170,
+   "habitat": [
+    "草原"
+   ],
+   "intro": "澳洲的大鳥，全身是亂亂的灰褐色羽毛，不會飛。",
+   "story": "鴯鶓家裡是爸爸負責孵蛋！爸爸會連續好幾個星期不吃不喝坐在蛋上，小鳥出生後也是爸爸帶大。",
+   "cues": [
+    "全身灰褐色，羽毛像亂亂的頭髮",
+    "脖子是藍灰色的皮膚",
+    "不會飛，跑很快"
+   ],
+   "sex": "公鳥母鳥長得很像，母鳥比較大。小鴯鶓身上有一條一條的直紋。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "澳洲的草原和疏林",
+   "like": [
+    "ostrich",
+    "cassowary"
+   ],
+   "photos": [
+    {
+     "src": "img/emu-0.jpg",
+     "label": "",
+     "by": "Brian Rosenberg",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/188973042",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/emu-1.jpg",
+     "label": "",
+     "by": "beardedvulture",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/281184452",
+     "w": 500,
+     "h": 336,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/emu-2.jpg",
+     "label": "",
+     "by": "rivendel",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/422203404",
+     "w": 500,
+     "h": 286,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/emu-3.jpg",
+     "label": "",
+     "by": "Abbey Dean",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/254264801",
+     "w": 500,
+     "h": 381,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/emu-0.m4a",
+     "kind": "叫聲",
+     "sec": 8,
+     "city": "澳洲",
+     "by": "Pieter de Groot Boersma",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/326393",
+     "xc": "xeno-canto XC326393"
+    },
+    {
+     "src": "snd/emu-1.m4a",
+     "kind": "敲擊聲",
+     "sec": 9,
+     "city": "澳洲",
+     "by": "Tom Tarrant",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/195089",
+     "xc": "xeno-canto XC195089"
+    }
+   ]
+  },
+  {
+   "id": "cassowary",
+   "zh": "南方食火雞",
+   "en": "Southern Cassowary",
+   "sci": "Casuarius casuarius",
+   "cm": 170,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "全身黑色的大鳥，頭上有一個像安全帽的角，脖子是亮藍色和紅色。",
+   "story": "食火雞頭上的「安全帽」可以幫牠在森林裡撥開樹枝。牠們吃掉落的果子，再把種子帶到森林各處，是熱帶雨林的種樹高手。",
+   "cues": [
+    "頭上有一個大大的角冠",
+    "脖子亮藍色，還垂著紅色的肉垂",
+    "全身黑色，不會飛"
+   ],
+   "sex": "公鳥母鳥長得很像，母鳥比較大、顏色比較鮮豔。小食火雞是褐色條紋的。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "澳洲北部和新幾內亞的熱帶雨林",
+   "like": [
+    "emu"
+   ],
+   "photos": [
+    {
+     "src": "img/cassowary-0.jpg",
+     "label": "",
+     "by": "Tom Hunt",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/218372296",
+     "w": 400,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/cassowary-1.jpg",
+     "label": "",
+     "by": "Terry Sohl",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/45664584",
+     "w": 500,
+     "h": 416,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/cassowary-2.jpg",
+     "label": "",
+     "by": "David White",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/641786376",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/cassowary-3.jpg",
+     "label": "",
+     "by": "Anaëlle FRANCIA",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/600798163",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/cassowary-0.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "澳洲",
+     "by": "Phil Gregory",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/276905",
+     "xc": "xeno-canto XC276905"
+    },
+    {
+     "src": "snd/cassowary-1.m4a",
+     "kind": "警戒聲",
+     "sec": 15,
+     "city": "澳洲",
+     "by": "Phil Gregory",
+     "license": "CC BY-NC-SA 3.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+     "url": "https://xeno-canto.org/126083",
+     "xc": "xeno-canto XC126083"
+    }
+   ]
+  },
+  {
+   "id": "bluegold_macaw",
+   "zh": "藍黃金剛鸚鵡",
+   "en": "Blue-and-yellow Macaw",
+   "sci": "Ara ararauna",
+   "cm": 85,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "背是亮藍色、肚子是金黃色的大鸚鵡，尾巴長長的。",
+   "story": "金剛鸚鵡的嘴巴力氣超大，可以咬開很硬的堅果。牠們常常一對一對一起飛，一輩子都在一起。",
+   "cues": [
+    "背和翅膀亮藍色，肚子金黃色",
+    "臉是白色，有細細的黑線",
+    "尾巴很長"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "南美洲亞馬遜一帶的熱帶森林",
+   "like": [
+    "greenwing_macaw"
+   ],
+   "photos": [
+    {
+     "src": "img/bluegold_macaw-0.jpg",
+     "label": "",
+     "by": "KENNEDY BORGES",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/414331079",
+     "w": 500,
+     "h": 365,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bluegold_macaw-1.jpg",
+     "label": "",
+     "by": "Joás",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/260227928",
+     "w": 500,
+     "h": 405,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bluegold_macaw-2.jpg",
+     "label": "",
+     "by": "Leandro Rezende",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/614765363",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bluegold_macaw-3.jpg",
+     "label": "",
+     "by": "Oswaldo Hernández",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/308610887",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/bluegold_macaw-0.m4a",
+     "kind": "唱歌",
+     "sec": 8,
+     "city": "哥倫比亞",
+     "by": "A Edwar H Guarín",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/754479",
+     "xc": "xeno-canto XC754479"
+    },
+    {
+     "src": "snd/bluegold_macaw-1.m4a",
+     "kind": "唱歌",
+     "sec": 15,
+     "city": "巴西",
+     "by": "Felipe Arantes",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/679065",
+     "xc": "xeno-canto XC679065"
+    },
+    {
+     "src": "snd/bluegold_macaw-2.m4a",
+     "kind": "叫聲",
+     "sec": 6,
+     "city": "巴西",
+     "by": "JAYRSON ARAUJO DE OLIVEIRA",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1191721",
+     "xc": "xeno-canto XC1191721"
+    },
+    {
+     "src": "snd/bluegold_macaw-3.m4a",
+     "kind": "警戒聲",
+     "sec": 15,
+     "city": "巴西",
+     "by": "Dante Buzzetti",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/777319",
+     "xc": "xeno-canto XC777319"
+    },
+    {
+     "src": "snd/bluegold_macaw-4.m4a",
+     "kind": "飛行聲",
+     "sec": 14,
+     "city": "厄瓜多",
+     "by": "Juan Freile",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1188210",
+     "xc": "xeno-canto XC1188210"
+    }
+   ]
+  },
+  {
+   "id": "toco_toucan",
+   "zh": "托哥巨嘴鳥",
+   "en": "Toco Toucan",
+   "sci": "Ramphastos toco",
+   "cm": 60,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "黑色的身體配上一支超大的橘色嘴巴，嘴巴尖端有一塊黑色。",
+   "story": "巨嘴鳥的嘴巴看起來很重，其實裡面像海綿一樣空空的，很輕。天氣熱的時候，大嘴巴還可以幫牠散熱，像一台冷氣機。",
+   "cues": [
+    "橘色的超大嘴巴",
+    "全身黑色，喉嚨白色",
+    "眼睛周圍是藍色和橘色的皮膚"
+   ],
+   "sex": "公鳥母鳥長得很像，公鳥的嘴巴通常大一點。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "南美洲中部的疏林和河邊",
+   "photos": [
+    {
+     "src": "img/toco_toucan-0.jpg",
+     "label": "",
+     "by": "Paul Steeves",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/63281111",
+     "w": 500,
+     "h": 281,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/toco_toucan-1.jpg",
+     "label": "",
+     "by": "pkondrashov",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/330182676",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/toco_toucan-2.jpg",
+     "label": "",
+     "by": "leuli",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/175504102",
+     "w": 500,
+     "h": 415,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/toco_toucan-3.jpg",
+     "label": "",
+     "by": "Robin Gwen Agarwal",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/216092477",
+     "w": 500,
+     "h": 407,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/toco_toucan-0.m4a",
+     "kind": "唱歌",
+     "sec": 10,
+     "city": "巴西",
+     "by": "Fabrício Grigolin",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1054733",
+     "xc": "xeno-canto XC1054733"
+    },
+    {
+     "src": "snd/toco_toucan-1.m4a",
+     "kind": "唱歌",
+     "sec": 8,
+     "city": "巴西",
+     "by": "Nunes D´Acosta",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/716365",
+     "xc": "xeno-canto XC716365"
+    },
+    {
+     "src": "snd/toco_toucan-2.m4a",
+     "kind": "叫聲",
+     "sec": 9,
+     "city": "巴西",
+     "by": "JAYRSON ARAUJO DE OLIVEIRA",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1162254",
+     "xc": "xeno-canto XC1162254"
+    },
+    {
+     "src": "snd/toco_toucan-3.m4a",
+     "kind": "警戒聲",
+     "sec": 14,
+     "city": "阿根廷",
+     "by": "Bobby Wilcox",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/364128",
+     "xc": "xeno-canto XC364128"
+    },
+    {
+     "src": "snd/toco_toucan-4.m4a",
+     "kind": "飛行聲",
+     "sec": 14,
+     "city": "巴西",
+     "by": "Noé Eiterer",
+     "license": "CC BY-NC-SA 3.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+     "url": "https://xeno-canto.org/114717",
+     "xc": "xeno-canto XC114717"
+    }
+   ]
+  },
+  {
+   "id": "great_hornbill",
+   "zh": "雙角犀鳥",
+   "en": "Great Hornbill",
+   "sci": "Buceros bicornis",
+   "cm": 115,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "嘴巴上面頂著一個黃色大盔的大鳥，黑白色的翅膀飛起來會發出呼呼聲。",
+   "story": "犀鳥媽媽生蛋時，會躲進樹洞，用泥巴把洞口封起來，只留一條小縫。犀鳥爸爸每天從小縫裡送食物進去，直到小鳥長大。",
+   "cues": [
+    "嘴巴上面有黃色的大盔",
+    "黑白色的身體",
+    "飛的時候翅膀聲音很大"
+   ],
+   "sex": "公鳥眼睛是紅色的；母鳥眼睛是白色的，頭上的盔也比較小。",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "印度、東南亞的熱帶森林",
+   "photos": [
+    {
+     "src": "img/great_hornbill-0.jpg",
+     "label": "",
+     "by": "sssuresh",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/204107436",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/great_hornbill-1.jpg",
+     "label": "",
+     "by": "sssuresh",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/269242588",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/great_hornbill-2.jpg",
+     "label": "",
+     "by": "Tejas M",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/619153339",
+     "w": 500,
+     "h": 404,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/great_hornbill-3.jpg",
+     "label": "",
+     "by": "Manuel Ruedi",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/88004197",
+     "w": 500,
+     "h": 332,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/great_hornbill-0.m4a",
+     "kind": "唱歌",
+     "sec": 9,
+     "city": "印度",
+     "by": "Lars Lachmann",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/883592",
+     "xc": "xeno-canto XC883592"
+    },
+    {
+     "src": "snd/great_hornbill-1.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "泰國",
+     "by": "Alain Verneau",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/819734",
+     "xc": "xeno-canto XC819734"
+    },
+    {
+     "src": "snd/great_hornbill-2.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "泰國",
+     "by": "Arend Wassink",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1079955",
+     "xc": "xeno-canto XC1079955"
+    },
+    {
+     "src": "snd/great_hornbill-3.m4a",
+     "kind": "叫聲",
+     "sec": 15,
+     "city": "緬甸",
+     "by": "Thet Zaw Naing",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/736314",
+     "xc": "xeno-canto XC736314"
+    }
+   ]
+  },
+  {
+   "id": "black_swan",
+   "zh": "黑天鵝",
+   "en": "Black Swan",
+   "sci": "Cygnus atratus",
+   "cm": 130,
+   "habitat": [
+    "湖泊",
+    "水面"
+   ],
+   "intro": "全身黑色的天鵝，嘴巴是紅色的，尖端有一條白色。",
+   "story": "很久以前歐洲人以為天鵝都是白色的，直到在澳洲看見黑天鵝，大家才知道「沒看過不代表不存在」。牠飛起來時，翅膀邊緣會露出白色的羽毛。",
+   "cues": [
+    "全身黑色，嘴巴紅色",
+    "脖子很長，常彎成 S 形",
+    "飛的時候翅膀有白邊"
+   ],
+   "sex": "公鳥母鳥長得一樣，公鳥比較大。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "澳洲的湖泊和溼地",
+   "like": [
+    "bn_swan"
+   ],
+   "photos": [
+    {
+     "src": "img/black_swan-0.jpg",
+     "label": "",
+     "by": "Jason Graham",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/518091189",
+     "w": 500,
+     "h": 463,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/black_swan-1.jpg",
+     "label": "",
+     "by": "deborod",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/185497341",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/black_swan-2.jpg",
+     "label": "",
+     "by": "Terra Occ",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/30638889",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/black_swan-3.jpg",
+     "label": "",
+     "by": "deborod",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/253835081",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/black_swan-0.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "澳洲",
+     "by": "nick talbot",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/737407",
+     "xc": "xeno-canto XC737407"
+    },
+    {
+     "src": "snd/black_swan-1.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "法國",
+     "by": "Stanislas Wroza",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/591102",
+     "xc": "xeno-canto XC591102"
+    },
+    {
+     "src": "snd/black_swan-2.m4a",
+     "kind": "叫聲",
+     "sec": 8,
+     "city": "花蓮縣",
+     "by": "Sunny Tseng",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/572862",
+     "xc": "xeno-canto XC572862"
+    },
+    {
+     "src": "snd/black_swan-3.m4a",
+     "kind": "飛行聲",
+     "sec": 12,
+     "city": "法國",
+     "by": "Stanislas Wroza",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/522571",
+     "xc": "xeno-canto XC522571"
+    }
+   ]
+  },
+  {
+   "id": "ch_flamingo",
+   "zh": "智利紅鶴",
+   "en": "Chilean Flamingo",
+   "sci": "Phoenicopterus chilensis",
+   "cm": 115,
+   "habitat": [
+    "淺水"
+   ],
+   "intro": "比大紅鶴小一點、顏色淡一點的紅鶴，膝蓋是紅色的。",
+   "story": "分辨兩種紅鶴的祕訣是看腳：智利紅鶴的腳是灰色的，只有「膝蓋」和腳掌是紅色，像穿了紅色護膝。",
+   "cues": [
+    "淡粉紅色的身體",
+    "灰色的腳，膝蓋紅色",
+    "嘴巴的黑色比大紅鶴多"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "南美洲的鹽湖和溼地",
+   "like": [
+    "gr_flamingo"
+   ],
+   "photos": [
+    {
+     "src": "img/ch_flamingo-0.jpg",
+     "label": "",
+     "by": "Sebastián Lescano",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/134157343",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/ch_flamingo-1.jpg",
+     "label": "",
+     "by": "Manuel Godoy",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/189156244",
+     "w": 500,
+     "h": 466,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/ch_flamingo-2.jpg",
+     "label": "",
+     "by": "Thibaud Aronson",
+     "license": "CC BY-SA",
+     "url": "https://www.inaturalist.org/photos/64524005",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/ch_flamingo-3.jpg",
+     "label": "",
+     "by": "Jaime Camacho",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/235928381",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/ch_flamingo-0.m4a",
+     "kind": "唱歌",
+     "sec": 12,
+     "city": "阿根廷",
+     "by": "Bernabe Lopez-Lanus",
+     "license": "CC BY-NC-SA 3.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+     "url": "https://xeno-canto.org/50987",
+     "xc": "xeno-canto XC50987"
+    },
+    {
+     "src": "snd/ch_flamingo-1.m4a",
+     "kind": "警戒聲",
+     "sec": 14,
+     "city": "阿根廷",
+     "by": "Bernabe Lopez-Lanus",
+     "license": "CC BY-NC-SA 3.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+     "url": "https://xeno-canto.org/46345",
+     "xc": "xeno-canto XC46345"
+    },
+    {
+     "src": "snd/ch_flamingo-2.m4a",
+     "kind": "飛行聲",
+     "sec": 11,
+     "city": "阿根廷",
+     "by": "Bobby Wilcox",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/470749",
+     "xc": "xeno-canto XC470749"
+    }
+   ]
+  },
+  {
+   "id": "pink_pelican",
+   "zh": "粉紅背鵜鶘",
+   "en": "Pink-backed Pelican",
+   "sci": "Pelecanus rufescens",
+   "cm": 130,
+   "habitat": [
+    "湖泊",
+    "水面"
+   ],
+   "intro": "灰白色的鵜鶘，背上和肚子帶一點淡淡的粉紅色。",
+   "story": "粉紅背鵜鶘喜歡自己抓魚，不像白鵜鶘那樣一大群一起趕魚。牠們會在大樹上築巢，常常好幾家住在同一棵樹上。",
+   "cues": [
+    "比白鵜鶘小，顏色偏灰",
+    "背上有淡淡的粉紅色",
+    "嘴巴下面的皮袋是淡黃色"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "非洲的湖泊和河流",
+   "like": [
+    "white_pelican"
+   ],
+   "photos": [
+    {
+     "src": "img/pink_pelican-0.jpg",
+     "label": "",
+     "by": "serdar",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/407300506",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/pink_pelican-1.jpg",
+     "label": "",
+     "by": "Gigi Laidler",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/153735369",
+     "w": 500,
+     "h": 374,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/pink_pelican-2.jpg",
+     "label": "",
+     "by": "Hoiman",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/293881357",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/pink_pelican-3.jpg",
+     "label": "",
+     "by": "Wayne and Pam Osborn",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/261799819",
+     "w": 500,
+     "h": 270,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/pink_pelican-0.m4a",
+     "kind": "叫聲",
+     "sec": 8,
+     "city": "塞內加爾",
+     "by": "Alain Malengreau",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/862719",
+     "xc": "xeno-canto XC862719"
+    }
+   ]
+  },
+  {
+   "id": "bn_swan",
+   "zh": "黑頸天鵝",
+   "en": "Black-necked Swan",
+   "sci": "Cygnus melancoryphus",
+   "cm": 115,
+   "habitat": [
+    "湖泊",
+    "水面"
+   ],
+   "intro": "身體白色、脖子黑色的天鵝，嘴巴上面有一塊紅紅的肉瘤。",
+   "story": "黑頸天鵝爸媽會把小天鵝背在背上游泳，讓小天鵝不會冷，也不容易被魚或鳥抓走。",
+   "cues": [
+    "身體雪白，脖子和頭是黑色",
+    "嘴巴灰色，前額有紅色肉瘤",
+    "眼睛後面有一條白線"
+   ],
+   "sex": "公鳥母鳥長得一樣，公鳥比較大。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "南美洲南部的湖泊和溼地",
+   "like": [
+    "black_swan"
+   ],
+   "photos": [
+    {
+     "src": "img/bn_swan-0.jpg",
+     "label": "",
+     "by": "grinnin",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/343001023",
+     "w": 500,
+     "h": 487,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bn_swan-1.jpg",
+     "label": "",
+     "by": "Felipe Espinosa C.",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/286013451",
+     "w": 500,
+     "h": 418,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bn_swan-2.jpg",
+     "label": "",
+     "by": "Donna Pomeroy",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/446771554",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bn_swan-3.jpg",
+     "label": "",
+     "by": "Ariel Rotondo",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/109586850",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/bn_swan-0.m4a",
+     "kind": "叫聲",
+     "sec": 13,
+     "city": "智利",
+     "by": "Bernabe Lopez-Lanus",
+     "license": "CC BY-NC-SA 3.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+     "url": "https://xeno-canto.org/48076",
+     "xc": "xeno-canto XC48076"
+    },
+    {
+     "src": "snd/bn_swan-1.m4a",
+     "kind": "警戒聲",
+     "sec": 14,
+     "city": "智利",
+     "by": "Cristian Pinto Fernandez",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/845397",
+     "xc": "xeno-canto XC845397"
+    }
+   ]
+  },
+  {
+   "id": "egyptian_goose",
+   "zh": "埃及雁",
+   "en": "Egyptian Goose",
+   "sci": "Alopochen aegyptiaca",
+   "cm": 68,
+   "habitat": [
+    "水邊",
+    "草地"
+   ],
+   "intro": "褐色的雁，眼睛周圍有一圈咖啡色的「眼罩」，胸口有一塊咖啡色的斑。",
+   "story": "古埃及人很喜歡這種鳥，在金字塔的壁畫裡就畫過牠。牠們脾氣很兇，會大聲叫著把別的鳥趕走。",
+   "cues": [
+    "眼睛周圍有咖啡色的眼罩",
+    "胸口中間有一塊咖啡色斑",
+    "飛的時候翅膀有一大片白色"
+   ],
+   "sex": "公鳥母鳥長得一樣，母鳥比較小。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "非洲的河流和湖泊",
+   "photos": [
+    {
+     "src": "img/egyptian_goose-0.jpg",
+     "label": "",
+     "by": "Tony Rebelo",
+     "license": "CC BY-SA",
+     "url": "https://www.inaturalist.org/photos/126658976",
+     "w": 443,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/egyptian_goose-1.jpg",
+     "label": "",
+     "by": "Bird Explorers",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/123559370",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/egyptian_goose-2.jpg",
+     "label": "",
+     "by": "quentm",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/451531191",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/egyptian_goose-3.jpg",
+     "label": "",
+     "by": "Nick Leggatt",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/92295762",
+     "w": 500,
+     "h": 285,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/egyptian_goose-0.m4a",
+     "kind": "唱歌",
+     "sec": 15,
+     "city": "烏干達",
+     "by": "Jonathan Onongo",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1105381",
+     "xc": "xeno-canto XC1105381"
+    },
+    {
+     "src": "snd/egyptian_goose-1.m4a",
+     "kind": "唱歌",
+     "sec": 11,
+     "city": "埃及",
+     "by": "GABRIEL LEITE",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/700147",
+     "xc": "xeno-canto XC700147"
+    },
+    {
+     "src": "snd/egyptian_goose-2.m4a",
+     "kind": "叫聲",
+     "sec": 12,
+     "city": "南非",
+     "by": "African Bioacoustics Community",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1183527",
+     "xc": "xeno-canto XC1183527"
+    },
+    {
+     "src": "snd/egyptian_goose-3.m4a",
+     "kind": "警戒聲",
+     "sec": 8,
+     "city": "法國",
+     "by": "Stanislas Wroza",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1070828",
+     "xc": "xeno-canto XC1070828"
+    },
+    {
+     "src": "snd/egyptian_goose-4.m4a",
+     "kind": "飛行聲",
+     "sec": 7,
+     "city": "法國",
+     "by": "Julien Piette",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/949235",
+     "xc": "xeno-canto XC949235"
+    }
+   ]
+  },
+  {
+   "id": "wood_duck",
+   "zh": "林鴛鴦",
+   "en": "Wood Duck",
+   "sci": "Aix sponsa",
+   "cm": 50,
+   "habitat": [
+    "水邊",
+    "森林"
+   ],
+   "intro": "北美洲的鴛鴦，公鳥像畫了濃妝，頭上有亮綠色的冠和白色的線條。",
+   "story": "林鴛鴦住在樹洞裡！小鴨孵出來第二天，就要從好幾公尺高的樹洞跳下來，再跟著媽媽走到水邊。",
+   "cues": [
+    "公鳥頭亮綠色，有白色細線",
+    "紅色眼睛和紅色嘴巴",
+    "母鳥眼睛周圍有一圈白色，像淚滴"
+   ],
+   "sex": "公鳥頭是綠紫色、有白色線條，眼睛紅色；母鳥灰褐色，眼睛周圍有一圈白色。",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "北美洲的森林溼地",
+   "like": [
+    "mandarin"
+   ],
+   "photos": [
+    {
+     "src": "img/wood_duck-0.jpg",
+     "label": "公",
+     "by": "Jason Headley",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/13366520",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/wood_duck-1.jpg",
+     "label": "公",
+     "by": "Kent Ross",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/171626978",
+     "w": 500,
+     "h": 376,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/wood_duck-2.jpg",
+     "label": "公",
+     "by": "Joanne Muis Redwood",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/12044392",
+     "w": 500,
+     "h": 358,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/wood_duck-3.jpg",
+     "label": "公",
+     "by": "silvertop41",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/332289848",
+     "w": 500,
+     "h": 338,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/wood_duck-4.jpg",
+     "label": "母",
+     "by": "paulzc",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/663529896",
+     "w": 500,
+     "h": 386,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/wood_duck-0.m4a",
+     "kind": "唱歌",
+     "sec": 15,
+     "city": "加拿大",
+     "by": "Stanislas Wroza",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1021717",
+     "xc": "xeno-canto XC1021717"
+    },
+    {
+     "src": "snd/wood_duck-1.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "加拿大",
+     "by": "Sunny Tseng",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/509715",
+     "xc": "xeno-canto XC509715"
+    },
+    {
+     "src": "snd/wood_duck-2.m4a",
+     "kind": "叫聲",
+     "sec": 10,
+     "city": "義大利",
+     "by": "Luca Giussani",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/451137",
+     "xc": "xeno-canto XC451137"
+    },
+    {
+     "src": "snd/wood_duck-3.m4a",
+     "kind": "警戒聲",
+     "sec": 14,
+     "city": "法國",
+     "by": "Sven Normant",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/855694",
+     "xc": "xeno-canto XC855694"
+    }
+   ]
+  },
+  {
+   "id": "mandarin",
+   "zh": "鴛鴦",
+   "en": "Mandarin Duck",
+   "sci": "Aix galericulata",
+   "cm": 45,
+   "habitat": [
+    "溪流",
+    "森林"
+   ],
+   "intro": "公鳥是最漂亮的鴨子之一，背上豎著一對橘色的小帆。",
+   "story": "大家說鴛鴦感情很好、一輩子在一起，但其實鴛鴦每年都會換伴侶。不過牠們漂亮的樣子，還是讓人很喜歡。",
+   "cues": [
+    "公鳥背上有一對橘色的帆",
+    "臉上有白色寬眉和橘色鬍鬚",
+    "母鳥灰褐色，眼睛後面一條白線"
+   ],
+   "sex": "公鳥五顏六色，背上有一對橘色的「帆」；母鳥灰褐色，眼睛後面有一條白線。",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "中國、日本、俄羅斯遠東的山區溪流",
+   "like": [
+    "wood_duck"
+   ],
+   "photos": [
+    {
+     "src": "img/mandarin-0.jpg",
+     "label": "公",
+     "by": "Tristan Scholze",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/116362285",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/mandarin-1.jpg",
+     "label": "公",
+     "by": "Carey Titus",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/672835547",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/mandarin-2.jpg",
+     "label": "公",
+     "by": "Ariel Cabrera Foix",
+     "license": "CC BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/455201424",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/mandarin-3.jpg",
+     "label": "公",
+     "by": "Steve Murray",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/256318501",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/mandarin-4.jpg",
+     "label": "母",
+     "by": "bigfoot123",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/427651694",
+     "w": 500,
+     "h": 376,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/mandarin-5.jpg",
+     "label": "母",
+     "by": "Kenta Uchida",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/86876788",
+     "w": 333,
+     "h": 500,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/mandarin-0.m4a",
+     "kind": "唱歌",
+     "sec": 8,
+     "city": "波蘭",
+     "by": "Jarek Matusiak",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/406343",
+     "xc": "xeno-canto XC406343"
+    },
+    {
+     "src": "snd/mandarin-1.m4a",
+     "kind": "唱歌",
+     "sec": 8,
+     "city": "波蘭",
+     "by": "Jarek Matusiak",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/390001",
+     "xc": "xeno-canto XC390001"
+    },
+    {
+     "src": "snd/mandarin-2.m4a",
+     "kind": "叫聲",
+     "sec": 7,
+     "city": "台北市",
+     "by": "賴彥廷",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/845701",
+     "xc": "xeno-canto XC845701"
+    },
+    {
+     "src": "snd/mandarin-3.m4a",
+     "kind": "警戒聲",
+     "sec": 9,
+     "city": "英國",
+     "by": "Simon Gillings",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1137635",
+     "xc": "xeno-canto XC1137635"
+    }
+   ]
+  },
+  {
+   "id": "mallard",
+   "zh": "綠頭鴨",
+   "en": "Mallard",
+   "sci": "Anas platyrhynchos",
+   "cm": 58,
+   "habitat": [
+    "水面",
+    "溼地"
+   ],
+   "intro": "公鳥頭亮綠色、脖子有一圈白色項鍊的鴨子。",
+   "story": "很多家鴨的祖先就是綠頭鴨。只有母綠頭鴨會發出「呱呱」的叫聲，公鴨的聲音比較小、比較沙啞。",
+   "cues": [
+    "公鳥頭亮綠色，脖子有白環",
+    "嘴巴黃色",
+    "翅膀上有一塊亮藍紫色的羽毛"
+   ],
+   "sex": "公鳥頭是亮綠色，脖子有一圈白環；母鳥全身褐色斑點，嘴巴橘色帶黑斑。",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "北半球的湖泊和溼地，冬天也會來台灣",
+   "like": [
+    "spot_duck"
+   ],
+   "photos": [
+    {
+     "src": "img/mallard-0.jpg",
+     "label": "公",
+     "by": "gg_copen",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/609645466",
+     "w": 462,
+     "h": 482,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/mallard-1.jpg",
+     "label": "公",
+     "by": "gg_copen",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/616315802",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/mallard-2.jpg",
+     "label": "公",
+     "by": "gg_copen",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/617133973",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/mallard-3.jpg",
+     "label": "母",
+     "by": "EcoLemon",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/753583417",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/mallard-4.jpg",
+     "label": "母",
+     "by": "jitensha2021",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/171549166",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/mallard-0.m4a",
+     "kind": "叫聲",
+     "sec": 5,
+     "city": "南投縣",
+     "by": "Sunny Tseng",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/597130",
+     "xc": "xeno-canto XC597130"
+    }
+   ]
+  },
+  {
+   "id": "sacred_ibis",
+   "zh": "埃及聖䴉",
+   "en": "African Sacred Ibis",
+   "sci": "Threskiornis aethiopicus",
+   "cm": 68,
+   "habitat": [
+    "溼地"
+   ],
+   "intro": "白色身體、黑色光頭，嘴巴又長又彎的鳥。",
+   "story": "古埃及人把聖䴉當成智慧之神的象徵。但在台灣，從動物園逃出去的聖䴉在野外大量繁殖，搶走本土鷺鷥的家，所以現在要把牠們移除。",
+   "cues": [
+    "身體白色，頭和脖子是黑色光頭",
+    "黑色的嘴巴又長又往下彎",
+    "屁股後面有黑色蓬蓬的羽毛"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "非洲撒哈拉以南的溼地",
+   "photos": [
+    {
+     "src": "img/sacred_ibis-0.jpg",
+     "label": "",
+     "by": "copper",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/26722393",
+     "w": 500,
+     "h": 363,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/sacred_ibis-1.jpg",
+     "label": "",
+     "by": "Nik Borrow",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/109403386",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/sacred_ibis-2.jpg",
+     "label": "",
+     "by": "Alan Horstmann",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/269271326",
+     "w": 500,
+     "h": 281,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/sacred_ibis-3.jpg",
+     "label": "",
+     "by": "Nick Leggatt",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/346221894",
+     "w": 500,
+     "h": 318,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/sacred_ibis-0.m4a",
+     "kind": "唱歌",
+     "sec": 8,
+     "city": "南非",
+     "by": "Lynette Rudman",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/505935",
+     "xc": "xeno-canto XC505935"
+    },
+    {
+     "src": "snd/sacred_ibis-1.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "南非",
+     "by": "Paul Lynch",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1182918",
+     "xc": "xeno-canto XC1182918"
+    },
+    {
+     "src": "snd/sacred_ibis-2.m4a",
+     "kind": "飛行聲",
+     "sec": 15,
+     "city": "南非",
+     "by": "African Bioacoustics Community",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1173576",
+     "xc": "xeno-canto XC1173576"
+    }
+   ]
+  },
+  {
+   "id": "scarlet_ibis",
+   "zh": "美洲紅䴉",
+   "en": "Scarlet Ibis",
+   "sci": "Eudocimus ruber",
+   "cm": 60,
+   "habitat": [
+    "溼地",
+    "紅樹林"
+   ],
+   "intro": "全身鮮紅色的鳥，嘴巴又長又彎，翅膀尖端是黑色。",
+   "story": "美洲紅䴉跟紅鶴一樣，紅色是吃出來的。牠們吃很多小螃蟹和蝦子，羽毛就越來越紅。",
+   "cues": [
+    "全身鮮紅色",
+    "嘴巴長長的往下彎",
+    "翅膀尖端有一點黑色"
+   ],
+   "sex": "公鳥母鳥長得一樣。小鳥是灰褐色的，長大慢慢變紅。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "南美洲北部的紅樹林和溼地",
+   "like": [
+    "sacred_ibis",
+    "gr_flamingo"
+   ],
+   "photos": [
+    {
+     "src": "img/scarlet_ibis-0.jpg",
+     "label": "",
+     "by": "Marcio C Motta",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/363294364",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/scarlet_ibis-1.jpg",
+     "label": "",
+     "by": "Greg Lasley",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/4399158",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/scarlet_ibis-2.jpg",
+     "label": "",
+     "by": "eduardovieira17",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/175661532",
+     "w": 500,
+     "h": 340,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/scarlet_ibis-3.jpg",
+     "label": "",
+     "by": "David Martin",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/478352755",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/scarlet_ibis-0.m4a",
+     "kind": "飛行聲",
+     "sec": 14,
+     "city": "阿聯",
+     "by": "David Darrell-Lambert",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1149368",
+     "xc": "xeno-canto XC1149368"
+    }
+   ]
+  },
+  {
+   "id": "marabou",
+   "zh": "禿鸛",
+   "en": "Marabou Stork",
+   "sci": "Leptoptilos crumenifer",
+   "cm": 150,
+   "habitat": [
+    "草原",
+    "溼地"
+   ],
+   "intro": "很高的鸛，頭和脖子幾乎沒有毛，脖子下面掛著一個粉紅色的大袋子。",
+   "story": "禿鸛的翅膀張開可以超過三公尺，是世界上翅膀最長的鳥之一。牠們沒有毛的頭，在吃東西的時候比較不容易弄髒。",
+   "cues": [
+    "頭和脖子光禿禿的，粉紅色",
+    "脖子前面掛著一個大肉袋",
+    "背是黑灰色，嘴巴又粗又長"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "非洲撒哈拉以南的草原和溼地",
+   "photos": [
+    {
+     "src": "img/marabou-0.jpg",
+     "label": "",
+     "by": "gillbsydney",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/76644887",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/marabou-1.jpg",
+     "label": "",
+     "by": "aramirez",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/446097595",
+     "w": 498,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/marabou-2.jpg",
+     "label": "",
+     "by": "guyrufray",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/244530283",
+     "w": 375,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/marabou-3.jpg",
+     "label": "",
+     "by": "Alex Rebelo",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/307065693",
+     "w": 333,
+     "h": 500,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/marabou-0.m4a",
+     "kind": "叫聲",
+     "sec": 15,
+     "city": "烏干達",
+     "by": "Josh Engel",
+     "license": "CC BY-NC-SA 3.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+     "url": "https://xeno-canto.org/137756",
+     "xc": "xeno-canto XC137756"
+    }
+   ]
+  },
+  {
+   "id": "striated_heron",
+   "zh": "綠簑鷺",
+   "en": "Striated Heron",
+   "sci": "Butorides striata",
+   "cm": 42,
+   "habitat": [
+    "水邊"
+   ],
+   "intro": "矮矮胖胖的小鷺鷥，頭頂黑色，背是灰綠色的。",
+   "story": "有些綠簑鷺會用工具釣魚！牠們把小樹枝、羽毛或麵包屑丟到水面當魚餌，等魚靠過來再一口叼走。",
+   "cues": [
+    "頭頂黑色，背灰綠色",
+    "脖子短短的，常縮起來",
+    "腳是黃色的"
+   ],
+   "sex": "公鳥母鳥長得一樣。年輕的鳥是褐色的，身上有很多條紋。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "亞洲、非洲、澳洲、南美洲的水邊，台灣也有",
+   "like": [
+    "night_heron"
+   ],
+   "photos": [
+    {
+     "src": "img/striated_heron-0.jpg",
+     "label": "",
+     "by": "Ben Tsai蔡維哲",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/300335310",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/striated_heron-1.jpg",
+     "label": "",
+     "by": "sungsung",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/257522079",
+     "w": 500,
+     "h": 281,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/striated_heron-2.jpg",
+     "label": "",
+     "by": "洪廷維",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/205710721",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/striated_heron-3.jpg",
+     "label": "",
+     "by": "ChienYL",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/245454967",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/striated_heron-0.m4a",
+     "kind": "唱歌",
+     "sec": 5,
+     "city": "哥倫比亞",
+     "by": "Mauricio Cuellar Ramirez (@Birding.travel)",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/589637",
+     "xc": "xeno-canto XC589637"
+    },
+    {
+     "src": "snd/striated_heron-1.m4a",
+     "kind": "叫聲",
+     "sec": 6,
+     "city": "法國",
+     "by": "Lionel Sineux",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1161752",
+     "xc": "xeno-canto XC1161752"
+    },
+    {
+     "src": "snd/striated_heron-2.m4a",
+     "kind": "警戒聲",
+     "sec": 11,
+     "city": "巴西",
+     "by": "JAYRSON ARAUJO DE OLIVEIRA",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/939543",
+     "xc": "xeno-canto XC939543"
+    },
+    {
+     "src": "snd/striated_heron-3.m4a",
+     "kind": "飛行聲",
+     "sec": 11,
+     "city": "厄瓜多",
+     "by": "José María Loaiza B.",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1176311",
+     "xc": "xeno-canto XC1176311"
+    }
+   ]
+  },
+  {
+   "id": "wn_crane",
+   "zh": "白枕鶴",
+   "en": "White-naped Crane",
+   "sci": "Antigone vipio",
+   "cm": 130,
+   "habitat": [
+    "溼地",
+    "農田"
+   ],
+   "intro": "灰色的鶴，脖子後面有一條白色的帶子，眼睛周圍是紅色的皮膚。",
+   "story": "白枕鶴是長途旅行家，夏天在北方生寶寶，冬天飛到南方的溼地和田裡過冬。牠們全家一起旅行，小鶴跟著爸媽學路線。",
+   "cues": [
+    "身體灰色，脖子後面有白色長條",
+    "眼睛周圍一大塊紅色",
+    "腳是粉紅色"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "蒙古、中國東北繁殖，冬天去韓國、日本、中國南方",
+   "like": [
+    "rc_crane",
+    "common_crane"
+   ],
+   "photos": [
+    {
+     "src": "img/wn_crane-0.jpg",
+     "label": "",
+     "by": "Royle Safaris",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/416195493",
+     "w": 500,
+     "h": 401,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/wn_crane-1.jpg",
+     "label": "",
+     "by": "Christoph Moning",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/102489197",
+     "w": 500,
+     "h": 334,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/wn_crane-2.jpg",
+     "label": "",
+     "by": "pittafisher",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/361008575",
+     "w": 500,
+     "h": 334,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/wn_crane-3.jpg",
+     "label": "",
+     "by": "Marc Thibault",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/630421843",
+     "w": 500,
+     "h": 332,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/wn_crane-0.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "蒙古",
+     "by": "Martin Billard",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/833409",
+     "xc": "xeno-canto XC833409"
+    },
+    {
+     "src": "snd/wn_crane-1.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "日本",
+     "by": "Barry Edmonston",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/897754",
+     "xc": "xeno-canto XC897754"
+    },
+    {
+     "src": "snd/wn_crane-2.m4a",
+     "kind": "叫聲",
+     "sec": 15,
+     "city": "蒙古",
+     "by": "Espen Quinto-Ashman",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/323747",
+     "xc": "xeno-canto XC323747"
+    },
+    {
+     "src": "snd/wn_crane-3.m4a",
+     "kind": "飛行聲",
+     "sec": 14,
+     "city": "俄羅斯",
+     "by": "Tom Wulf",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/319943",
+     "xc": "xeno-canto XC319943"
+    }
+   ]
+  },
+  {
+   "id": "hooded_crane",
+   "zh": "白頭鶴",
+   "en": "Hooded Crane",
+   "sci": "Grus monacha",
+   "cm": 97,
+   "habitat": [
+    "溼地",
+    "農田"
+   ],
+   "intro": "深灰色的小型鶴，頭和脖子是白色的，頭頂有一小塊紅色。",
+   "story": "白頭鶴每年冬天有好幾千隻到日本九州的出水市過冬，是世界上白頭鶴最多的地方。台灣偶爾也有迷路的白頭鶴出現，變成大新聞。",
+   "cues": [
+    "身體深灰色，頭和脖子白色",
+    "頭頂一小點紅色",
+    "比丹頂鶴小很多"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "西伯利亞繁殖，冬天去日本、韓國、中國",
+   "like": [
+    "common_crane"
+   ],
+   "photos": [
+    {
+     "src": "img/hooded_crane-0.jpg",
+     "label": "",
+     "by": "Bruce Wedderburn",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/618350635",
+     "w": 500,
+     "h": 359,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/hooded_crane-1.jpg",
+     "label": "",
+     "by": "Christoph Moning",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/102489261",
+     "w": 500,
+     "h": 313,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/hooded_crane-2.jpg",
+     "label": "",
+     "by": "Royle Safaris",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/416195889",
+     "w": 500,
+     "h": 345,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/hooded_crane-3.jpg",
+     "label": "",
+     "by": "nhm_ex",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/466376051",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/hooded_crane-0.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "中國",
+     "by": "Bo Shunqi",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/718319",
+     "xc": "xeno-canto XC718319"
+    },
+    {
+     "src": "snd/hooded_crane-1.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "日本",
+     "by": "Sam Hambly",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1065217",
+     "xc": "xeno-canto XC1065217"
+    },
+    {
+     "src": "snd/hooded_crane-2.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "韓國",
+     "by": "Wonseok Jang",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/661780",
+     "xc": "xeno-canto XC661780"
+    },
+    {
+     "src": "snd/hooded_crane-3.m4a",
+     "kind": "飛行聲",
+     "sec": 8,
+     "city": "中國",
+     "by": "Bo Shunqi薄顺奇",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/892190",
+     "xc": "xeno-canto XC892190"
+    }
+   ]
+  },
+  {
+   "id": "common_crane",
+   "zh": "灰鶴",
+   "en": "Common Crane",
+   "sci": "Grus grus",
+   "cm": 115,
+   "habitat": [
+    "溼地",
+    "農田"
+   ],
+   "intro": "灰色的鶴，臉和脖子是黑色，眼睛後面有一條白帶。",
+   "story": "灰鶴遷徙時會排成 V 字形飛行，一邊飛一邊「咕嚕咕嚕」叫，聲音在好幾公里外都聽得到。",
+   "cues": [
+    "全身灰色，頭和脖子黑色",
+    "眼睛後面有一條白帶",
+    "頭頂一小塊紅色"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "歐洲和亞洲北部繁殖，冬天去南方",
+   "like": [
+    "hooded_crane",
+    "wn_crane"
+   ],
+   "photos": [
+    {
+     "src": "img/common_crane-0.jpg",
+     "label": "",
+     "by": "Геннадий",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/329975378",
+     "w": 500,
+     "h": 361,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/common_crane-1.jpg",
+     "label": "",
+     "by": "Евгений",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/151433775",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/common_crane-2.jpg",
+     "label": "",
+     "by": "Davide Diana",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/248192255",
+     "w": 500,
+     "h": 391,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/common_crane-3.jpg",
+     "label": "",
+     "by": "jonas_barzdenas",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/265726837",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/common_crane-0.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "瑞典",
+     "by": "Lennart Jeppsson",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/895038",
+     "xc": "xeno-canto XC895038"
+    },
+    {
+     "src": "snd/common_crane-1.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "德國",
+     "by": "Regina Eidner",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/637494",
+     "xc": "xeno-canto XC637494"
+    },
+    {
+     "src": "snd/common_crane-2.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "挪威",
+     "by": "bert de bruin",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1142738",
+     "xc": "xeno-canto XC1142738"
+    },
+    {
+     "src": "snd/common_crane-3.m4a",
+     "kind": "警戒聲",
+     "sec": 14,
+     "city": "義大利",
+     "by": "Carlo Stagnoli Montagna",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1161820",
+     "xc": "xeno-canto XC1161820"
+    }
+   ]
+  },
+  {
+   "id": "sarus_crane",
+   "zh": "赤頸鶴",
+   "en": "Sarus Crane",
+   "sci": "Antigone antigone",
+   "cm": 160,
+   "habitat": [
+    "溼地",
+    "農田"
+   ],
+   "intro": "世界上最高的會飛的鳥，灰色的身體，頭和脖子上半部是紅色的。",
+   "story": "赤頸鶴站起來比很多大人還高。在印度，牠們常住在稻田旁邊，農夫把牠們當成好運和恩愛的象徵。",
+   "cues": [
+    "非常高大的灰色鶴",
+    "頭和脖子上半部是紅色皮膚",
+    "腳是粉紅色"
+   ],
+   "sex": "公鳥母鳥長得一樣，公鳥比較高。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "印度、東南亞、澳洲北部的溼地",
+   "like": [
+    "wn_crane"
+   ],
+   "photos": [
+    {
+     "src": "img/sarus_crane-0.jpg",
+     "label": "",
+     "by": "Uday Agashe",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/252514450",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/sarus_crane-1.jpg",
+     "label": "",
+     "by": "Rejoice Gassah",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/430630869",
+     "w": 500,
+     "h": 492,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/sarus_crane-2.jpg",
+     "label": "",
+     "by": "Dhruva Punde",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/605409938",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/sarus_crane-3.jpg",
+     "label": "",
+     "by": "orijit",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/307363835",
+     "w": 333,
+     "h": 500,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/sarus_crane-0.m4a",
+     "kind": "唱歌",
+     "sec": 10,
+     "city": "印度",
+     "by": "Sudipto Roy",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/198578",
+     "xc": "xeno-canto XC198578"
+    },
+    {
+     "src": "snd/sarus_crane-1.m4a",
+     "kind": "叫聲",
+     "sec": 7,
+     "city": "尼泊爾",
+     "by": "Rojin Maharjan",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1188561",
+     "xc": "xeno-canto XC1188561"
+    },
+    {
+     "src": "snd/sarus_crane-2.m4a",
+     "kind": "叫聲",
+     "sec": 15,
+     "city": "印度",
+     "by": "David Darrell-Lambert",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/979933",
+     "xc": "xeno-canto XC979933"
+    },
+    {
+     "src": "snd/sarus_crane-3.m4a",
+     "kind": "飛行聲",
+     "sec": 15,
+     "city": "緬甸",
+     "by": "Thet Zaw Naing",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1051080",
+     "xc": "xeno-canto XC1051080"
+    }
+   ]
+  },
+  {
+   "id": "demoiselle_crane",
+   "zh": "簑羽鶴",
+   "en": "Demoiselle Crane",
+   "sci": "Grus virgo",
+   "cm": 90,
+   "habitat": [
+    "草原"
+   ],
+   "intro": "世界上最小的鶴，眼睛後面有一撮白色的長羽毛，胸口垂著長長的黑羽毛。",
+   "story": "簑羽鶴每年要飛越喜馬拉雅山去印度過冬，那是世界上最高的山脈，牠們飛得比很多飛機還高。",
+   "cues": [
+    "小小的灰色鶴",
+    "眼睛後面有白色長羽毛",
+    "脖子前面垂著黑色長羽毛"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "中亞、蒙古的草原繁殖，冬天去印度和非洲",
+   "like": [
+    "common_crane"
+   ],
+   "photos": [
+    {
+     "src": "img/demoiselle_crane-0.jpg",
+     "label": "",
+     "by": "Avinash Bhagat",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/170977267",
+     "w": 500,
+     "h": 357,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/demoiselle_crane-1.jpg",
+     "label": "",
+     "by": "Avinash Bhagat",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/170977279",
+     "w": 500,
+     "h": 357,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/demoiselle_crane-2.jpg",
+     "label": "",
+     "by": "wilmotsenaratne",
+     "license": "CC0",
+     "url": "https://www.inaturalist.org/photos/672586047",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/demoiselle_crane-3.jpg",
+     "label": "",
+     "by": "Dhruva Punde",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/605415697",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/demoiselle_crane-0.m4a",
+     "kind": "叫聲",
+     "sec": 8,
+     "city": "印度",
+     "by": "Jelle Scharringa",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/604171",
+     "xc": "xeno-canto XC604171"
+    },
+    {
+     "src": "snd/demoiselle_crane-1.m4a",
+     "kind": "飛行聲",
+     "sec": 9,
+     "city": "中國",
+     "by": "He Wenjin",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1177593",
+     "xc": "xeno-canto XC1177593"
+    }
+   ]
+  },
+  {
+   "id": "bk_crowned_crane",
+   "zh": "黑冠鶴",
+   "en": "Black Crowned Crane",
+   "sci": "Balearica pavonina",
+   "cm": 100,
+   "habitat": [
+    "草原",
+    "溼地"
+   ],
+   "intro": "跟灰冠鶴很像，但身體是深黑灰色，臉頰上半部白、下半部紅。",
+   "story": "冠鶴是唯一會停在樹上的鶴，因為牠們的後腳趾比較長，可以抓住樹枝。",
+   "cues": [
+    "頭上有金色的刷子冠",
+    "身體深灰黑色",
+    "臉頰白色加紅色"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "非洲西部到中部的草原和溼地",
+   "like": [
+    "gr_crowned_crane"
+   ],
+   "photos": [
+    {
+     "src": "img/bk_crowned_crane-0.jpg",
+     "label": "",
+     "by": "Niall Perrins",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/196175272",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bk_crowned_crane-1.jpg",
+     "label": "",
+     "by": "Sergey_Cher",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/565069769",
+     "w": 500,
+     "h": 298,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bk_crowned_crane-2.jpg",
+     "label": "",
+     "by": "gillbsydney",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/79577662",
+     "w": 500,
+     "h": 334,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bk_crowned_crane-3.jpg",
+     "label": "",
+     "by": "Chris G Earley",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/417070152",
+     "w": 500,
+     "h": 413,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/bk_crowned_crane-0.m4a",
+     "kind": "叫聲",
+     "sec": 12,
+     "city": "衣索比亞",
+     "by": "Andrew Spencer",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/267451",
+     "xc": "xeno-canto XC267451"
+    },
+    {
+     "src": "snd/bk_crowned_crane-1.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "衣索比亞",
+     "by": "Andrew Spencer",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/267448",
+     "xc": "xeno-canto XC267448"
+    },
+    {
+     "src": "snd/bk_crowned_crane-2.m4a",
+     "kind": "飛行聲",
+     "sec": 14,
+     "city": "查德",
+     "by": "Julien Birard",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/960756",
+     "xc": "xeno-canto XC960756"
+    }
+   ]
+  },
+  {
+   "id": "argus",
+   "zh": "青鸞",
+   "en": "Great Argus",
+   "sci": "Argusianus argus",
+   "cm": 180,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "公鳥的翅膀上有一排排像眼睛的大圓點，張開時像一面大扇子。",
+   "story": "公青鸞會先把森林地面一塊地方清乾淨當舞台，再對著母鳥張開翅膀，把幾百個「眼睛」一起秀出來。",
+   "cues": [
+    "褐色的大雉雞，頭和脖子是藍色皮膚",
+    "公鳥尾巴超長",
+    "翅膀上有很多眼睛圖案"
+   ],
+   "sex": "公鳥有超長的尾羽和巨大的翅膀，上面布滿眼睛圖案；母鳥小很多，尾巴短。",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "馬來半島、蘇門答臘、婆羅洲的熱帶雨林",
+   "like": [
+    "peafowl"
+   ],
+   "photos": [
+    {
+     "src": "img/argus-0.jpg",
+     "label": "公",
+     "by": "nswandrew",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/683853570",
+     "w": 500,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/argus-1.jpg",
+     "label": "公",
+     "by": "Ioannis Magouras",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/457146411",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/argus-2.jpg",
+     "label": "公",
+     "by": "Bridgette Gower",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/267751076",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/argus-3.jpg",
+     "label": "公",
+     "by": "Ben Martin Mortimer",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/754787782",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/argus-4.jpg",
+     "label": "母",
+     "by": "mandym88",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/472507725",
+     "w": 375,
+     "h": 500,
+     "retrieved": "2026-11"
+    }
+   ]
+  },
+  {
+   "id": "golden_pheasant",
+   "zh": "金雞",
+   "en": "Golden Pheasant",
+   "sci": "Chrysolophus pictus",
+   "cm": 90,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "公鳥頭頂是金黃色，肚子鮮紅色，像穿了一件亮片衣服。",
+   "story": "公金雞求偶時，會把脖子上的橘色斗篷張開，蓋住半張臉，只露出一隻眼睛盯著母鳥看。",
+   "cues": [
+    "公鳥頭頂金黃色，肚子鮮紅",
+    "脖子有一圈橘黑相間的斗篷",
+    "尾巴很長，有斑點"
+   ],
+   "sex": "公鳥金黃、鮮紅、藍色超級鮮豔；母鳥全身褐色斑紋，尾巴比較短。",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "中國中部的山區森林",
+   "photos": [
+    {
+     "src": "img/golden_pheasant-0.jpg",
+     "label": "公",
+     "by": "三泷六星（mitaki rokusei）",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/501400376",
+     "w": 345,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/golden_pheasant-1.jpg",
+     "label": "公",
+     "by": "Glenn",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/586109954",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/golden_pheasant-2.jpg",
+     "label": "公",
+     "by": "leekelai",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/483612825",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/golden_pheasant-3.jpg",
+     "label": "公",
+     "by": "Connie Walker",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/186390077",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/golden_pheasant-4.jpg",
+     "label": "母",
+     "by": "chipiok",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/333121523",
+     "w": 500,
+     "h": 283,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/golden_pheasant-5.jpg",
+     "label": "母",
+     "by": "Alice Shanks",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/186367047",
+     "w": 500,
+     "h": 434,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/golden_pheasant-0.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "中國",
+     "by": "Mike Nelson",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/681621",
+     "xc": "xeno-canto XC681621"
+    },
+    {
+     "src": "snd/golden_pheasant-1.m4a",
+     "kind": "叫聲",
+     "sec": 8,
+     "city": "中國",
+     "by": "Xingyu Li 李兴宇",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/908427",
+     "xc": "xeno-canto XC908427"
+    }
+   ]
+  },
+  {
+   "id": "ringneck_pheasant",
+   "zh": "環頸雉",
+   "en": "Common Pheasant",
+   "sci": "Phasianus colchicus",
+   "cm": 80,
+   "habitat": [
+    "草地",
+    "農田"
+   ],
+   "intro": "公鳥臉紅紅的，脖子有一圈白項圈，尾巴又長又尖。",
+   "story": "台灣的環頸雉住在中南部的草原和農田，數量已經很少。公鳥會在早上「咯咯」大叫，再用力拍拍翅膀。",
+   "cues": [
+    "公鳥臉上一塊紅色",
+    "脖子有白色項圈",
+    "尾巴很長，有橫紋"
+   ],
+   "sex": "公鳥臉上有紅色皮膚、脖子有白色項圈、身體金銅色；母鳥全身褐色斑點。",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "亞洲大部分地區，台灣有特有亞種",
+   "photos": [
+    {
+     "src": "img/ringneck_pheasant-0.jpg",
+     "label": "公",
+     "by": "Frank Lin",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/176733796",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/ringneck_pheasant-1.jpg",
+     "label": "公",
+     "by": "orcakw",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/18073162",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/ringneck_pheasant-2.jpg",
+     "label": "公",
+     "by": "大肚魚",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/39768289",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/ringneck_pheasant-3.jpg",
+     "label": "公",
+     "by": "翁育民",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/759120921",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/ringneck_pheasant-4.jpg",
+     "label": "母",
+     "by": "洪廷維",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/88796245",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/ringneck_pheasant-0.m4a",
+     "kind": "叫聲",
+     "sec": 8,
+     "city": "台東縣",
+     "by": "Sunny Tseng",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/622520",
+     "xc": "xeno-canto XC622520"
+    },
+    {
+     "src": "snd/ringneck_pheasant-1.m4a",
+     "kind": "警戒聲",
+     "sec": 8,
+     "city": "瑞典",
+     "by": "Lennart Jeppsson",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1067618",
+     "xc": "xeno-canto XC1067618"
+    },
+    {
+     "src": "snd/ringneck_pheasant-2.m4a",
+     "kind": "飛行聲",
+     "sec": 5,
+     "city": "英國",
+     "by": "David Darrell-Lambert",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1015407",
+     "xc": "xeno-canto XC1015407"
+    },
+    {
+     "src": "snd/ringneck_pheasant-3.m4a",
+     "kind": "敲擊聲",
+     "sec": 9,
+     "city": "中國",
+     "by": "Ray Tsu 诸仁",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1059654",
+     "xc": "xeno-canto XC1059654"
+    }
+   ]
+  },
+  {
+   "id": "grey_junglefowl",
+   "zh": "灰原雞",
+   "en": "Grey Junglefowl",
+   "sci": "Gallus sonneratii",
+   "cm": 75,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "像公雞的野生雞，脖子上是灰色帶金黃色小點的羽毛。",
+   "story": "灰原雞是印度的野生雞。家雞的祖先主要是紅原雞，但科學家發現，家雞身上的黃色皮膚基因，是從灰原雞那裡來的。",
+   "cues": [
+    "像公雞，有紅色雞冠",
+    "脖子羽毛灰色，有金黃色斑點",
+    "尾巴是黑色帶光澤"
+   ],
+   "sex": "公鳥有紅色雞冠，脖子羽毛是灰色帶黃斑；母鳥褐色，沒有大雞冠。",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "印度西部和南部的森林",
+   "like": [
+    "green_junglefowl"
+   ],
+   "photos": [
+    {
+     "src": "img/grey_junglefowl-0.jpg",
+     "label": "公",
+     "by": "Avinash Bhagat",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/299435593",
+     "w": 500,
+     "h": 334,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/grey_junglefowl-1.jpg",
+     "label": "公",
+     "by": "Rino Di Noto",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/69626633",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/grey_junglefowl-2.jpg",
+     "label": "公",
+     "by": "Avinash Bhagat",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/299701492",
+     "w": 500,
+     "h": 346,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/grey_junglefowl-3.jpg",
+     "label": "公",
+     "by": "Vijay Anand Ismavel",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/279312864",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/grey_junglefowl-4.jpg",
+     "label": "母",
+     "by": "Jayant M Deshpande",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/207638416",
+     "w": 500,
+     "h": 407,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/grey_junglefowl-5.jpg",
+     "label": "母",
+     "by": "Morten Ross",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/222836263",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/grey_junglefowl-0.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "印度",
+     "by": "Mandar Bhagat",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/555778",
+     "xc": "xeno-canto XC555778"
+    },
+    {
+     "src": "snd/grey_junglefowl-1.m4a",
+     "kind": "叫聲",
+     "sec": 9,
+     "city": "印度",
+     "by": "Pankaj Lad",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/214029",
+     "xc": "xeno-canto XC214029"
+    }
+   ]
+  },
+  {
+   "id": "green_junglefowl",
+   "zh": "綠原雞",
+   "en": "Green Junglefowl",
+   "sci": "Gallus varius",
+   "cm": 70,
+   "habitat": [
+    "林緣",
+    "草地"
+   ],
+   "intro": "公鳥全身亮綠色，雞冠是藍色加紅色，像彩虹。",
+   "story": "綠原雞住在印尼的火山島上，喜歡靠近海邊的草地。公雞的叫聲很特別，聽起來像短短的「喔—喔」。",
+   "cues": [
+    "公鳥亮綠色有光澤",
+    "雞冠是藍色和紅色",
+    "喉嚨下面有一片藍紅色肉垂"
+   ],
+   "sex": "公鳥身上是亮綠色和紫色，有一片藍紅色的雞冠；母鳥是褐色的。",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "印尼爪哇和附近的小島",
+   "like": [
+    "grey_junglefowl"
+   ],
+   "photos": [
+    {
+     "src": "img/green_junglefowl-0.jpg",
+     "label": "公",
+     "by": "Marc Henrion",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/451428806",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/green_junglefowl-1.jpg",
+     "label": "公",
+     "by": "oldman19510",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/6254930",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/green_junglefowl-2.jpg",
+     "label": "公",
+     "by": "Bird Explorers",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/80886361",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/green_junglefowl-3.jpg",
+     "label": "公",
+     "by": "Braden J. Judson",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/585111465",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/green_junglefowl-4.jpg",
+     "label": "母",
+     "by": "Ellen Rykers",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/31689246",
+     "w": 500,
+     "h": 326,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/green_junglefowl-0.m4a",
+     "kind": "唱歌",
+     "sec": 8,
+     "city": "印尼",
+     "by": "Peter Ericsson",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/268028",
+     "xc": "xeno-canto XC268028"
+    },
+    {
+     "src": "snd/green_junglefowl-1.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "印尼",
+     "by": "Ross Gallardy",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/410366",
+     "xc": "xeno-canto XC410366"
+    },
+    {
+     "src": "snd/green_junglefowl-2.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "印尼",
+     "by": "JACOB Hervé",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/289600",
+     "xc": "xeno-canto XC289600"
+    },
+    {
+     "src": "snd/green_junglefowl-3.m4a",
+     "kind": "警戒聲",
+     "sec": 14,
+     "city": "印尼",
+     "by": "Panji Gusti Akbar",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/498702",
+     "xc": "xeno-canto XC498702"
+    }
+   ]
+  },
+  {
+   "id": "palawan_pp",
+   "zh": "巴拉望孔雀雉",
+   "en": "Palawan Peacock-Pheasant",
+   "sci": "Polyplectron napoleonis",
+   "cm": 50,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "公鳥背上閃著藍綠色的金屬光，臉上有白色眉毛和頭冠。",
+   "story": "巴拉望孔雀雉只住在菲律賓的一個島上，是瀕危的鳥。臺北動物園 2026 年春天有小寶寶孵出來，是保育的好消息。",
+   "cues": [
+    "公鳥背上藍綠色金屬光澤",
+    "白色的眉毛和頭冠",
+    "尾巴上有藍色眼睛圖案"
+   ],
+   "sex": "公鳥背上有亮藍綠色的光澤和白色眉毛；母鳥是褐色的，比較樸素。",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "菲律賓的巴拉望島森林",
+   "like": [
+    "peafowl"
+   ],
+   "photos": [
+    {
+     "src": "img/palawan_pp-0.jpg",
+     "label": "公",
+     "by": "Sebastian Ow",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/504738430",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/palawan_pp-1.jpg",
+     "label": "公",
+     "by": "Jim Moore (Maryland)",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/643053162",
+     "w": 500,
+     "h": 423,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/palawan_pp-2.jpg",
+     "label": "公",
+     "by": "Andrey Vlasenko",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/109485949",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/palawan_pp-3.jpg",
+     "label": "公",
+     "by": "Niels Poul Dreyer",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/607739566",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/palawan_pp-4.jpg",
+     "label": "母",
+     "by": "emskakoon",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/468575344",
+     "w": 500,
+     "h": 426,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/palawan_pp-5.jpg",
+     "label": "母",
+     "by": "Jim Moore (Maryland)",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/643053076",
+     "w": 500,
+     "h": 320,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/palawan_pp-0.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "菲律賓",
+     "by": "Stijn Cooleman",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/441606",
+     "xc": "xeno-canto XC441606"
+    },
+    {
+     "src": "snd/palawan_pp-1.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "菲律賓",
+     "by": "Pete Hines",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/368390",
+     "xc": "xeno-canto XC368390"
+    }
+   ]
+  },
+  {
+   "id": "edwards_pheasant",
+   "zh": "越南鷴",
+   "en": "Edwards's Pheasant",
+   "sci": "Lophura edwardsi",
+   "cm": 60,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "藍黑色的雉雞，臉紅紅的，頭頂有一小撮白毛。",
+   "story": "越南鷴在野外已經很多年沒被看到了，可能只剩動物園裡的牠們。動物園一起繁殖牠們，希望有一天能讓牠們回到越南的森林。",
+   "cues": [
+    "公鳥全身藍黑色",
+    "臉上有紅色皮膚",
+    "頭頂有白色短冠"
+   ],
+   "sex": "公鳥全身藍黑色，臉上有紅色皮膚，頭上有白色短冠；母鳥是褐色的。",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "越南中部的低地森林",
+   "like": [
+    "swinhoe"
+   ],
+   "photos": [
+    {
+     "src": "img/edwards_pheasant-0.jpg",
+     "label": "公",
+     "by": "Maryse",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/288940235",
+     "w": 500,
+     "h": 334,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/edwards_pheasant-1.jpg",
+     "label": "公",
+     "by": "Eric.L.Chen",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/543061703",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/edwards_pheasant-2.jpg",
+     "label": "公",
+     "by": "saraalien1",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/595230295",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/edwards_pheasant-3.jpg",
+     "label": "公",
+     "by": "saraalien1",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/325462581",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/edwards_pheasant-4.jpg",
+     "label": "母",
+     "by": "Marcio Santos Ferreira",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/273677451",
+     "w": 500,
+     "h": 225,
+     "retrieved": "2026-11"
+    }
+   ]
+  },
+  {
+   "id": "gr_curassow",
+   "zh": "大鳳冠雉",
+   "en": "Great Curassow",
+   "sci": "Crax rubra",
+   "cm": 90,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "公鳥全身黑色，頭上有捲捲的冠毛，嘴巴上面有一顆黃色的圓球。",
+   "story": "大鳳冠雉頭上的冠毛像燙過的捲髮。公鳥會發出很低沉的「嗡—嗡」聲，像有人在吹大海螺。",
+   "cues": [
+    "頭上有捲捲的冠毛",
+    "公鳥嘴巴上有黃色圓球",
+    "喜歡在森林地面走路"
+   ],
+   "sex": "公鳥全身黑色，嘴巴上有黃色圓球；母鳥是紅褐色或有條紋的。",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "墨西哥到南美洲西北部的熱帶森林",
+   "photos": [
+    {
+     "src": "img/gr_curassow-0.jpg",
+     "label": "公",
+     "by": "Rafael Paredes Montesinos",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/2282490",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/gr_curassow-1.jpg",
+     "label": "公",
+     "by": "Klaus Bohn",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/60377351",
+     "w": 319,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/gr_curassow-2.jpg",
+     "label": "公",
+     "by": "r_odrigojimenez17",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/114836899",
+     "w": 500,
+     "h": 334,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/gr_curassow-3.jpg",
+     "label": "母",
+     "by": "Rolando Pasos Pérez",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/46772055",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/gr_curassow-4.jpg",
+     "label": "母",
+     "by": "Luis Humberto Velez H.",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/32153840",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/gr_curassow-5.jpg",
+     "label": "母",
+     "by": "rolandwirth",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/357159760",
+     "w": 500,
+     "h": 401,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/gr_curassow-0.m4a",
+     "kind": "叫聲",
+     "sec": 11,
+     "city": "哥斯大黎加",
+     "by": "Scott Olmstead",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/956780",
+     "xc": "xeno-canto XC956780"
+    }
+   ]
+  },
+  {
+   "id": "bamboo_partridge",
+   "zh": "台灣竹雞",
+   "en": "Taiwan Bamboo Partridge",
+   "sci": "Bambusicola sonorivox",
+   "cm": 28,
+   "habitat": [
+    "竹林",
+    "森林底層"
+   ],
+   "intro": "胖胖的小雞，臉是灰藍色，胸口是栗紅色。",
+   "story": "竹雞的叫聲很大聲，聽起來像在喊「雞狗乖、雞狗乖」。牠們很害羞，聽得到但很難看到。",
+   "cues": [
+    "臉和胸口上方灰藍色",
+    "肚子栗紅色，有黑色斑點",
+    "在地上快步走，常躲在草叢裡"
+   ],
+   "sex": "公鳥母鳥長得很像，公鳥腳上有一根距。",
+   "tag": "公母同型",
+   "endemic": true,
+   "alien": false,
+   "home": "台灣的低中海拔森林和竹林",
+   "like": [
+    "hill_partridge"
+   ],
+   "photos": [
+    {
+     "src": "img/bamboo_partridge-0.jpg",
+     "label": "",
+     "by": "Liu JimFood",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/191065476",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bamboo_partridge-1.jpg",
+     "label": "",
+     "by": "Tzu-lun Hung",
+     "license": "CC BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/673877163",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bamboo_partridge-2.jpg",
+     "label": "",
+     "by": "小狐狸",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/727257070",
+     "w": 500,
+     "h": 281,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bamboo_partridge-3.jpg",
+     "label": "",
+     "by": "陳文茂",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/689013507",
+     "w": 500,
+     "h": 500,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/bamboo_partridge-0.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "雲林縣",
+     "by": "Lars Lachmann",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1040415",
+     "xc": "xeno-canto XC1040415"
+    },
+    {
+     "src": "snd/bamboo_partridge-1.m4a",
+     "kind": "唱歌",
+     "sec": 11,
+     "city": "南投縣",
+     "by": "Somkiat Pakapinyo (Chai)",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/596223",
+     "xc": "xeno-canto XC596223"
+    },
+    {
+     "src": "snd/bamboo_partridge-2.m4a",
+     "kind": "叫聲",
+     "sec": 15,
+     "city": "花蓮縣",
+     "by": "Sheng-wun Jheng",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/988034",
+     "xc": "xeno-canto XC988034"
+    },
+    {
+     "src": "snd/bamboo_partridge-3.m4a",
+     "kind": "警戒聲",
+     "sec": 14,
+     "city": "南投縣",
+     "by": "Jelle Scharringa",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1074082",
+     "xc": "xeno-canto XC1074082"
+    }
+   ]
+  },
+  {
+   "id": "um_cockatoo",
+   "zh": "白鳳頭鸚鵡",
+   "en": "White Cockatoo",
+   "sci": "Cacatua alba",
+   "cm": 46,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "全身雪白的鸚鵡，頭上的冠毛張開時像一把白色的扇子。",
+   "story": "白鳳頭鸚鵡興奮或緊張的時候，會把頭上的冠毛整個豎起來。牠們很聰明，在野外因為被抓去當寵物，數量變少了。",
+   "cues": [
+    "全身白色",
+    "頭上的冠毛是白色的",
+    "嘴巴黑色"
+   ],
+   "sex": "公鳥母鳥長得很像，公鳥眼睛是黑色、母鳥偏紅褐色。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "印尼摩鹿加群島的森林",
+   "like": [
+    "sc_cockatoo",
+    "ysc_cockatoo"
+   ],
+   "photos": [
+    {
+     "src": "img/um_cockatoo-0.jpg",
+     "label": "",
+     "by": "utomoa",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/186513459",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/um_cockatoo-1.jpg",
+     "label": "",
+     "by": "Stephen John Davies",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/366599116",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/um_cockatoo-2.jpg",
+     "label": "",
+     "by": "Mitch Rose",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/238053062",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/um_cockatoo-3.jpg",
+     "label": "",
+     "by": "avocat",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/312475131",
+     "w": 465,
+     "h": 500,
+     "retrieved": "2026-11"
+    }
+   ]
+  },
+  {
+   "id": "sc_cockatoo",
+   "zh": "葵花鳳頭鸚鵡",
+   "en": "Sulphur-crested Cockatoo",
+   "sci": "Cacatua galerita",
+   "cm": 48,
+   "habitat": [
+    "森林",
+    "城市"
+   ],
+   "intro": "白色的大鸚鵡，頭上有一撮黃色的冠毛，像頂著一朵向日葵。",
+   "story": "在澳洲，葵花鳳頭鸚鵡會學會打開垃圾桶的蓋子找東西吃，而且這招會一隻教一隻，從一個城區傳到另一個城區。",
+   "cues": [
+    "全身白色",
+    "頭上有黃色的長冠毛",
+    "叫聲非常大聲"
+   ],
+   "sex": "公鳥母鳥長得很像，母鳥眼睛偏紅褐色。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "澳洲東部和新幾內亞",
+   "like": [
+    "um_cockatoo",
+    "ysc_cockatoo"
+   ],
+   "photos": [
+    {
+     "src": "img/sc_cockatoo-0.jpg",
+     "label": "",
+     "by": ".",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/484338810",
+     "w": 500,
+     "h": 400,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/sc_cockatoo-1.jpg",
+     "label": "",
+     "by": "Peter and Shelly",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/247007913",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/sc_cockatoo-2.jpg",
+     "label": "",
+     "by": "Kenton",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/612331220",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/sc_cockatoo-3.jpg",
+     "label": "",
+     "by": "Martin Bennett",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/665612815",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/sc_cockatoo-0.m4a",
+     "kind": "唱歌",
+     "sec": 7,
+     "city": "澳洲",
+     "by": "Romuald Mikusek",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1173884",
+     "xc": "xeno-canto XC1173884"
+    },
+    {
+     "src": "snd/sc_cockatoo-1.m4a",
+     "kind": "唱歌",
+     "sec": 8,
+     "city": "澳洲",
+     "by": "Diego Caiafa",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/195632",
+     "xc": "xeno-canto XC195632"
+    },
+    {
+     "src": "snd/sc_cockatoo-2.m4a",
+     "kind": "警戒聲",
+     "sec": 15,
+     "city": "澳洲",
+     "by": "AK",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1177819",
+     "xc": "xeno-canto XC1177819"
+    },
+    {
+     "src": "snd/sc_cockatoo-3.m4a",
+     "kind": "飛行聲",
+     "sec": 14,
+     "city": "澳洲",
+     "by": "JJSUN",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1088472",
+     "xc": "xeno-canto XC1088472"
+    }
+   ]
+  },
+  {
+   "id": "ysc_cockatoo",
+   "zh": "小葵花鳳頭鸚鵡",
+   "en": "Yellow-crested Cockatoo",
+   "sci": "Cacatua sulphurea",
+   "cm": 34,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "比葵花鳳頭小的白鸚鵡，頭上有黃色冠毛，臉頰也有一點淡黃色。",
+   "story": "小葵花鳳頭鸚鵡是極度瀕危的鳥，野外只剩很少。香港的城市裡反而住著一群逃出來的小葵花，成了很重要的族群。",
+   "cues": [
+    "白色的中型鸚鵡",
+    "黃色冠毛",
+    "臉頰有淡黃色"
+   ],
+   "sex": "公鳥母鳥長得很像，母鳥眼睛偏紅褐色。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "印尼和東帝汶的小島",
+   "like": [
+    "sc_cockatoo"
+   ],
+   "photos": [
+    {
+     "src": "img/ysc_cockatoo-0.jpg",
+     "label": "",
+     "by": "emskakoon",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/304390963",
+     "w": 415,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/ysc_cockatoo-1.jpg",
+     "label": "",
+     "by": "Yovie Jehabut",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/26734731",
+     "w": 500,
+     "h": 330,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/ysc_cockatoo-2.jpg",
+     "label": "",
+     "by": "Mehd Halaouate",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/53469567",
+     "w": 500,
+     "h": 389,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/ysc_cockatoo-3.jpg",
+     "label": "",
+     "by": "mwbirdco",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/46936081",
+     "w": 500,
+     "h": 500,
+     "retrieved": "2026-11"
+    }
+   ]
+  },
+  {
+   "id": "galah",
+   "zh": "粉紅鳳頭鸚鵡",
+   "en": "Galah",
+   "sci": "Eolophus roseicapilla",
+   "cm": 35,
+   "habitat": [
+    "草地",
+    "城市"
+   ],
+   "intro": "粉紅色的臉和肚子，加上灰色的背，像一顆草莓牛奶糖。",
+   "story": "在澳洲，粉紅鳳頭鸚鵡很常見，常常一大群在草地上吃種子。下雨的時候，牠們會倒掛在電線上，張開翅膀洗澡。",
+   "cues": [
+    "臉、脖子、肚子粉紅色",
+    "背和翅膀灰色",
+    "頭頂淺粉色的短冠"
+   ],
+   "sex": "公鳥母鳥長得很像，公鳥眼睛深褐色，母鳥偏紅色。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "澳洲大部分地區",
+   "photos": [
+    {
+     "src": "img/galah-0.jpg",
+     "label": "",
+     "by": "Andrew Allen",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/147415773",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/galah-1.jpg",
+     "label": "",
+     "by": "ajpate",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/571386723",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/galah-2.jpg",
+     "label": "",
+     "by": "Michael Hains",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/95783920",
+     "w": 333,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/galah-3.jpg",
+     "label": "",
+     "by": "andrewpavlov",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/83710039",
+     "w": 500,
+     "h": 341,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/galah-0.m4a",
+     "kind": "叫聲",
+     "sec": 10,
+     "city": "澳洲",
+     "by": "Sam Hambly",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/960995",
+     "xc": "xeno-canto XC960995"
+    },
+    {
+     "src": "snd/galah-1.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "澳洲",
+     "by": "Louis Masarei",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/924286",
+     "xc": "xeno-canto XC924286"
+    },
+    {
+     "src": "snd/galah-2.m4a",
+     "kind": "飛行聲",
+     "sec": 14,
+     "city": "澳洲",
+     "by": "Romuald Mikusek",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/935909",
+     "xc": "xeno-canto XC935909"
+    }
+   ]
+  },
+  {
+   "id": "palm_cockatoo",
+   "zh": "棕櫚鳳頭鸚鵡",
+   "en": "Palm Cockatoo",
+   "sci": "Probosciger aterrimus",
+   "cm": 60,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "全身黑灰色的大鸚鵡，臉頰有一塊紅色皮膚，頭上有一撮長長的冠毛。",
+   "story": "棕櫚鳳頭鸚鵡會拿樹枝敲樹幹打節奏，而且每隻都有自己的節拍，是少數會「打鼓」的動物。",
+   "cues": [
+    "全身黑灰色",
+    "臉頰紅色皮膚",
+    "嘴巴超大、黑色"
+   ],
+   "sex": "公鳥母鳥長得很像，公鳥嘴巴比較大。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "新幾內亞和澳洲北部的雨林",
+   "photos": [
+    {
+     "src": "img/palm_cockatoo-0.jpg",
+     "label": "",
+     "by": "Mark Simpson",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/256916871",
+     "w": 500,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/palm_cockatoo-1.jpg",
+     "label": "",
+     "by": "Jason Searle",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/421874784",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/palm_cockatoo-2.jpg",
+     "label": "",
+     "by": "Faunaverse",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/9779173",
+     "w": 332,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/palm_cockatoo-3.jpg",
+     "label": "",
+     "by": "jackfegan",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/352268669",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/palm_cockatoo-0.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "澳洲",
+     "by": "Eric S. J. Tan",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/263494",
+     "xc": "xeno-canto XC263494"
+    },
+    {
+     "src": "snd/palm_cockatoo-1.m4a",
+     "kind": "飛行聲",
+     "sec": 8,
+     "city": "印尼",
+     "by": "Paulo Alves",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/233683",
+     "xc": "xeno-canto XC233683"
+    },
+    {
+     "src": "snd/palm_cockatoo-2.m4a",
+     "kind": "敲擊聲",
+     "sec": 14,
+     "city": "澳洲",
+     "by": "Phil Gregory",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/615916",
+     "xc": "xeno-canto XC615916"
+    }
+   ]
+  },
+  {
+   "id": "eclectus",
+   "zh": "折衷鸚鵡",
+   "en": "Eclectus Parrot",
+   "sci": "Eclectus roratus",
+   "cm": 40,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "公鳥是亮綠色，母鳥是紅色加藍紫色，差很多。",
+   "story": "折衷鸚鵡的公鳥和母鳥長得完全不一樣，以前的科學家以為是兩種鳥，過了快一百年才發現牠們是一家人。",
+   "cues": [
+    "公鳥亮綠色，嘴巴橘黃色",
+    "母鳥紅色和藍紫色，嘴巴黑色",
+    "圓圓胖胖的身體"
+   ],
+   "sex": "公鳥是亮綠色、嘴巴橘黃色；母鳥是紅色和藍紫色、嘴巴黑色。以前的人還以為牠們是兩種不同的鳥！",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "新幾內亞、印尼東部、澳洲北部的雨林",
+   "photos": [
+    {
+     "src": "img/eclectus-0.jpg",
+     "label": "公",
+     "by": "JohnNewman",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/318914112",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/eclectus-1.jpg",
+     "label": "公",
+     "by": "ShaneWalsh",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/695105754",
+     "w": 500,
+     "h": 315,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/eclectus-2.jpg",
+     "label": "公",
+     "by": "Duncan Henderson",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/470190864",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/eclectus-3.jpg",
+     "label": "母",
+     "by": "Anaëlle FRANCIA",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/607960440",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/eclectus-4.jpg",
+     "label": "母",
+     "by": "danicalockett",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/325465389",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/eclectus-5.jpg",
+     "label": "母",
+     "by": "Geoff Walker",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/184020341",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/eclectus-0.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "印尼",
+     "by": "Untung Sarmawi",
+     "license": "CC BY 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by/4.0/",
+     "url": "https://xeno-canto.org/1183196",
+     "xc": "xeno-canto XC1183196"
+    },
+    {
+     "src": "snd/eclectus-1.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "印尼",
+     "by": "Riski Yudian",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1151172",
+     "xc": "xeno-canto XC1151172"
+    },
+    {
+     "src": "snd/eclectus-2.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "澳洲",
+     "by": "Étienne Leroy",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1096191",
+     "xc": "xeno-canto XC1096191"
+    },
+    {
+     "src": "snd/eclectus-3.m4a",
+     "kind": "警戒聲",
+     "sec": 8,
+     "city": "巴布亞紐幾內亞",
+     "by": "Jan-Uwe Schmidt",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/944152",
+     "xc": "xeno-canto XC944152"
+    },
+    {
+     "src": "snd/eclectus-4.m4a",
+     "kind": "飛行聲",
+     "sec": 9,
+     "city": "帛琉",
+     "by": "Chi-Hsuan Shao",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1003828",
+     "xc": "xeno-canto XC1003828"
+    }
+   ]
+  },
+  {
+   "id": "rr_parakeet",
+   "zh": "紅領綠鸚鵡",
+   "en": "Rose-ringed Parakeet",
+   "sci": "Psittacula krameri",
+   "cm": 40,
+   "habitat": [
+    "樹上",
+    "城市"
+   ],
+   "intro": "全身綠色的鸚鵡，紅色的嘴巴，公鳥脖子有一圈項圈。",
+   "story": "紅領綠鸚鵡被帶到世界各地，在倫敦、台北這些城市裡都有逃出來的族群在野外生活。",
+   "cues": [
+    "全身亮綠色",
+    "紅色彎彎的嘴巴",
+    "尾巴又長又尖"
+   ],
+   "sex": "公鳥脖子有一圈黑色和粉紅色的項圈；母鳥沒有項圈或很淡。",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "非洲和印度，也在很多城市裡野化",
+   "photos": [
+    {
+     "src": "img/rr_parakeet-0.jpg",
+     "label": "公",
+     "by": "VarmaX",
+     "license": "CC BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/103002381",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/rr_parakeet-1.jpg",
+     "label": "公",
+     "by": "sunnyjosef",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/744754140",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/rr_parakeet-2.jpg",
+     "label": "公",
+     "by": "Mousam Ray",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/2035460",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/rr_parakeet-3.jpg",
+     "label": "公",
+     "by": "Arun Sreekumar",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/139495006",
+     "w": 378,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/rr_parakeet-4.jpg",
+     "label": "母",
+     "by": "Randy Floyd",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/447361749",
+     "w": 500,
+     "h": 357,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/rr_parakeet-5.jpg",
+     "label": "母",
+     "by": "SK SAYAK",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/196555990",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/rr_parakeet-0.m4a",
+     "kind": "唱歌",
+     "sec": 15,
+     "city": "英國",
+     "by": "David Darrell-Lambert",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1105526",
+     "xc": "xeno-canto XC1105526"
+    },
+    {
+     "src": "snd/rr_parakeet-1.m4a",
+     "kind": "唱歌",
+     "sec": 13,
+     "city": "西班牙",
+     "by": "Stein Ø. Nilsen",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/764464",
+     "xc": "xeno-canto XC764464"
+    },
+    {
+     "src": "snd/rr_parakeet-2.m4a",
+     "kind": "叫聲",
+     "sec": 8,
+     "city": "法國",
+     "by": "Thierry THOMAS",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1089724",
+     "xc": "xeno-canto XC1089724"
+    },
+    {
+     "src": "snd/rr_parakeet-3.m4a",
+     "kind": "警戒聲",
+     "sec": 14,
+     "city": "比利時",
+     "by": "Daniel Goris",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/925984",
+     "xc": "xeno-canto XC925984"
+    },
+    {
+     "src": "snd/rr_parakeet-4.m4a",
+     "kind": "飛行聲",
+     "sec": 14,
+     "city": "泰國",
+     "by": "Sam Hambly",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1188542",
+     "xc": "xeno-canto XC1188542"
+    }
+   ]
+  },
+  {
+   "id": "yh_amazon",
+   "zh": "黃頭亞馬遜鸚鵡",
+   "en": "Yellow-headed Amazon",
+   "sci": "Amazona oratrix",
+   "cm": 38,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "綠色的鸚鵡，整個頭是黃色的。",
+   "story": "黃頭亞馬遜鸚鵡很會學說話和唱歌，所以常被抓去當寵物，野外數量變得很少，是瀕危的鸚鵡。",
+   "cues": [
+    "全身綠色",
+    "頭是黃色的",
+    "翅膀上有一點紅色"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "墨西哥和中美洲的森林",
+   "like": [
+    "yn_amazon",
+    "bf_amazon"
+   ],
+   "photos": [
+    {
+     "src": "img/yh_amazon-0.jpg",
+     "label": "",
+     "by": "Jose Antonio Estrada Godinez",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/189887578",
+     "w": 500,
+     "h": 334,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/yh_amazon-1.jpg",
+     "label": "",
+     "by": "rakshas",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/218994040",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/yh_amazon-2.jpg",
+     "label": "",
+     "by": "Carlos Arturo Marín Medina",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/463639269",
+     "w": 500,
+     "h": 334,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/yh_amazon-3.jpg",
+     "label": "",
+     "by": "Isai Olalde Estrada",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/516129153",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/yh_amazon-0.m4a",
+     "kind": "唱歌",
+     "sec": 9,
+     "city": "墨西哥",
+     "by": "Manuel Grosselet",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/804979",
+     "xc": "xeno-canto XC804979"
+    },
+    {
+     "src": "snd/yh_amazon-1.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "墨西哥",
+     "by": "Manuel Grosselet",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/681814",
+     "xc": "xeno-canto XC681814"
+    },
+    {
+     "src": "snd/yh_amazon-2.m4a",
+     "kind": "叫聲",
+     "sec": 15,
+     "city": "德國",
+     "by": "Markus Jacobs",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/726822",
+     "xc": "xeno-canto XC726822"
+    },
+    {
+     "src": "snd/yh_amazon-3.m4a",
+     "kind": "警戒聲",
+     "sec": 6,
+     "city": "墨西哥",
+     "by": "Manuel Grosselet",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/281938",
+     "xc": "xeno-canto XC281938"
+    },
+    {
+     "src": "snd/yh_amazon-4.m4a",
+     "kind": "飛行聲",
+     "sec": 15,
+     "city": "墨西哥",
+     "by": "Rodolfo Salinas-Villarreal",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/897179",
+     "xc": "xeno-canto XC897179"
+    }
+   ]
+  },
+  {
+   "id": "bf_amazon",
+   "zh": "藍額亞馬遜鸚鵡",
+   "en": "Turquoise-fronted Amazon",
+   "sci": "Amazona aestiva",
+   "cm": 37,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "綠色的鸚鵡，額頭是藍色，臉上有黃色。",
+   "story": "藍額亞馬遜鸚鵡會一大群在傍晚飛回同一片樹林睡覺，一路上吵吵鬧鬧，好像在聊今天發生的事。",
+   "cues": [
+    "全身綠色",
+    "額頭藍色",
+    "臉頰和頭頂黃色"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "南美洲中部的森林和疏林",
+   "like": [
+    "yh_amazon"
+   ],
+   "photos": [
+    {
+     "src": "img/bf_amazon-0.jpg",
+     "label": "",
+     "by": "Guillermo Menéndez",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/122399184",
+     "w": 500,
+     "h": 384,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bf_amazon-1.jpg",
+     "label": "",
+     "by": "tandria",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/424896597",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bf_amazon-2.jpg",
+     "label": "",
+     "by": "Nick Lima",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/167963315",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bf_amazon-3.jpg",
+     "label": "",
+     "by": "eduardovieira17",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/525332765",
+     "w": 500,
+     "h": 289,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/bf_amazon-0.m4a",
+     "kind": "唱歌",
+     "sec": 15,
+     "city": "巴西",
+     "by": "Ricardo José Mitidieri",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/823041",
+     "xc": "xeno-canto XC823041"
+    },
+    {
+     "src": "snd/bf_amazon-1.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "巴西",
+     "by": "Aluisio Ribeiro",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/822128",
+     "xc": "xeno-canto XC822128"
+    },
+    {
+     "src": "snd/bf_amazon-2.m4a",
+     "kind": "叫聲",
+     "sec": 15,
+     "city": "巴西",
+     "by": "Robson Silva e Silva",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1154161",
+     "xc": "xeno-canto XC1154161"
+    },
+    {
+     "src": "snd/bf_amazon-3.m4a",
+     "kind": "警戒聲",
+     "sec": 14,
+     "city": "阿根廷",
+     "by": "Bobby Wilcox",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/365325",
+     "xc": "xeno-canto XC365325"
+    },
+    {
+     "src": "snd/bf_amazon-4.m4a",
+     "kind": "飛行聲",
+     "sec": 9,
+     "city": "巴西",
+     "by": "Tulio Dornas",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/698638",
+     "xc": "xeno-canto XC698638"
+    }
+   ]
+  },
+  {
+   "id": "yn_amazon",
+   "zh": "黃頸亞馬遜鸚鵡",
+   "en": "Yellow-naped Amazon",
+   "sci": "Amazona auropalliata",
+   "cm": 38,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "綠色的鸚鵡，脖子後面有一塊黃色。",
+   "story": "黃頸亞馬遜鸚鵡的家族會發展出自己的「方言」，住在不同地方的鸚鵡，叫聲聽起來不太一樣。",
+   "cues": [
+    "全身綠色",
+    "脖子後面一塊黃色",
+    "嘴巴是灰色的"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "墨西哥南部到哥斯大黎加",
+   "like": [
+    "yh_amazon"
+   ],
+   "photos": [
+    {
+     "src": "img/yn_amazon-0.jpg",
+     "label": "",
+     "by": "Nestor Herrera",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/92205280",
+     "w": 500,
+     "h": 360,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/yn_amazon-1.jpg",
+     "label": "",
+     "by": "Patricia Hernández",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/174627913",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/yn_amazon-2.jpg",
+     "label": "",
+     "by": "Nestor Herrera",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/271510269",
+     "w": 500,
+     "h": 319,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/yn_amazon-3.jpg",
+     "label": "",
+     "by": "Simon Kiacz",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/250599511",
+     "w": 500,
+     "h": 409,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/yn_amazon-0.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "墨西哥",
+     "by": "Manuel Grosselet",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/447725",
+     "xc": "xeno-canto XC447725"
+    },
+    {
+     "src": "snd/yn_amazon-1.m4a",
+     "kind": "唱歌",
+     "sec": 12,
+     "city": "尼加拉瓜",
+     "by": "Orlando Jarquín G.",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/335897",
+     "xc": "xeno-canto XC335897"
+    },
+    {
+     "src": "snd/yn_amazon-2.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "瓜地馬拉",
+     "by": "Max Noack",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/502333",
+     "xc": "xeno-canto XC502333"
+    },
+    {
+     "src": "snd/yn_amazon-3.m4a",
+     "kind": "警戒聲",
+     "sec": 14,
+     "city": "瓜地馬拉",
+     "by": "GABRIEL LEITE",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1089567",
+     "xc": "xeno-canto XC1089567"
+    },
+    {
+     "src": "snd/yn_amazon-4.m4a",
+     "kind": "飛行聲",
+     "sec": 10,
+     "city": "哥斯大黎加",
+     "by": "Albert Lastukhin",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/371393",
+     "xc": "xeno-canto XC371393"
+    }
+   ]
+  },
+  {
+   "id": "greenwing_macaw",
+   "zh": "綠翼金剛鸚鵡",
+   "en": "Red-and-green Macaw",
+   "sci": "Ara chloropterus",
+   "cm": 90,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "大紅色的金剛鸚鵡，翅膀中間有一條綠色。",
+   "story": "綠翼金剛鸚鵡會一大群飛到河邊的泥土牆上吃泥巴。科學家認為，泥巴可以幫牠們補充鹽分，還能解除果子裡的毒。",
+   "cues": [
+    "全身大紅色",
+    "翅膀上有綠色和藍色",
+    "臉上有一條條紅色細線"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "南美洲北部的熱帶森林",
+   "like": [
+    "bluegold_macaw"
+   ],
+   "photos": [
+    {
+     "src": "img/greenwing_macaw-0.jpg",
+     "label": "",
+     "by": "Jackie Riley",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/346448502",
+     "w": 500,
+     "h": 412,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/greenwing_macaw-1.jpg",
+     "label": "",
+     "by": "Philippe Gravel",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/468730330",
+     "w": 375,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/greenwing_macaw-2.jpg",
+     "label": "",
+     "by": "Thomas Shahan",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/516607216",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/greenwing_macaw-0.m4a",
+     "kind": "唱歌",
+     "sec": 15,
+     "city": "玻利維亞",
+     "by": "Jacob Wijpkema",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/688141",
+     "xc": "xeno-canto XC688141"
+    },
+    {
+     "src": "snd/greenwing_macaw-1.m4a",
+     "kind": "唱歌",
+     "sec": 7,
+     "city": "巴西",
+     "by": "Felipe Arantes",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/636820",
+     "xc": "xeno-canto XC636820"
+    },
+    {
+     "src": "snd/greenwing_macaw-2.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "阿根廷",
+     "by": "Faustino Hollmann",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1177181",
+     "xc": "xeno-canto XC1177181"
+    },
+    {
+     "src": "snd/greenwing_macaw-3.m4a",
+     "kind": "警戒聲",
+     "sec": 14,
+     "city": "巴西",
+     "by": "Paulo Affonso Fonseca Pires Neto",
+     "license": "CC BY-NC-SA 3.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+     "url": "https://xeno-canto.org/112655",
+     "xc": "xeno-canto XC112655"
+    },
+    {
+     "src": "snd/greenwing_macaw-4.m4a",
+     "kind": "飛行聲",
+     "sec": 10,
+     "city": "秘魯",
+     "by": "Martin St-Michel",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/575164",
+     "xc": "xeno-canto XC575164"
+    }
+   ]
+  },
+  {
+   "id": "rb_lory",
+   "zh": "紅藍吸蜜鸚鵡",
+   "en": "Red-and-blue Lory",
+   "sci": "Eos histrio",
+   "cm": 31,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "紅色的小鸚鵡，眼睛後面和胸口有一條條藍色。",
+   "story": "吸蜜鸚鵡的舌頭尖端像一支小刷子，可以伸進花裡把花蜜和花粉刷出來吃。",
+   "cues": [
+    "全身紅色",
+    "臉頰到脖子有藍色帶",
+    "胸口有一條藍色帶"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "印尼北部的幾個小島",
+   "photos": [
+    {
+     "src": "img/rb_lory-0.jpg",
+     "label": "",
+     "by": "MUH IDRIS",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/636856793",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/rb_lory-1.jpg",
+     "label": "",
+     "by": "fachrynurmallojr",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/377512113",
+     "w": 500,
+     "h": 374,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/rb_lory-2.jpg",
+     "label": "",
+     "by": "Mehd Halaouate",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/91949649",
+     "w": 500,
+     "h": 320,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/rb_lory-3.jpg",
+     "label": "",
+     "by": "Dillen Ng",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/342714307",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ]
+  },
+  {
+   "id": "victoria_cp",
+   "zh": "維多利亞冠鳩",
+   "en": "Victoria Crowned Pigeon",
+   "sci": "Goura victoria",
+   "cm": 74,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "藍灰色的大鴿子，頭上戴著一頂像蕾絲扇子的冠，冠毛尖端是白色的。",
+   "story": "冠鳩是世界上最大的鴿子，差不多跟火雞一樣大。牠們大部分時間在森林地上走路找果子吃。",
+   "cues": [
+    "藍灰色的大鴿子",
+    "頭上的冠像蕾絲扇子，尖端白色",
+    "胸口是紫紅色"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "新幾內亞北部的雨林",
+   "like": [
+    "blue_cp"
+   ],
+   "photos": [
+    {
+     "src": "img/victoria_cp-0.jpg",
+     "label": "",
+     "by": "Carmelo López Abad",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/300720",
+     "w": 500,
+     "h": 384,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/victoria_cp-1.jpg",
+     "label": "",
+     "by": "Michael Barth",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/30121629",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/victoria_cp-2.jpg",
+     "label": "",
+     "by": "Refer Iqbal",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/691230941",
+     "w": 281,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/victoria_cp-3.jpg",
+     "label": "",
+     "by": "Micha Baum",
+     "license": "CC BY-SA",
+     "url": "https://www.inaturalist.org/photos/376562743",
+     "w": 500,
+     "h": 456,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/victoria_cp-0.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "巴布亞紐幾內亞",
+     "by": "Iain Woxvold",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/557682",
+     "xc": "xeno-canto XC557682"
+    }
+   ]
+  },
+  {
+   "id": "blue_cp",
+   "zh": "藍冠鳩",
+   "en": "Western Crowned Pigeon",
+   "sci": "Goura cristata",
+   "cm": 70,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "藍灰色的大鴿子，頭上有一頂藍色的蕾絲冠，眼睛周圍是黑色。",
+   "story": "藍冠鳩被嚇到的時候，會先飛到樹上躲起來，一邊拍翅膀一邊發出很響的聲音嚇對方。",
+   "cues": [
+    "藍灰色的大鴿子",
+    "頭上的冠是藍色的，沒有白邊",
+    "翅膀上有一條白色和栗色"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "新幾內亞西部的雨林",
+   "like": [
+    "victoria_cp"
+   ],
+   "photos": [
+    {
+     "src": "img/blue_cp-0.jpg",
+     "label": "",
+     "by": "rajaampatherping",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/597600880",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/blue_cp-1.jpg",
+     "label": "",
+     "by": "Phil Chaon",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/52342423",
+     "w": 500,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/blue_cp-2.jpg",
+     "label": "",
+     "by": "guybroome",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/357974342",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/blue_cp-3.jpg",
+     "label": "",
+     "by": "Stephen John Davies",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/349342466",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ]
+  },
+  {
+   "id": "nicobar_pigeon",
+   "zh": "綠簑鳩",
+   "en": "Nicobar Pigeon",
+   "sci": "Caloenas nicobarica",
+   "cm": 40,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "脖子垂著一大片長長的羽毛，會閃出綠色、藍色、銅色的光。",
+   "story": "綠簑鳩是渡渡鳥的親戚！渡渡鳥已經滅絕了，綠簑鳩是現在跟牠血緣最近的鳥。",
+   "cues": [
+    "脖子上有長長的金屬光澤羽毛",
+    "尾巴是白色的",
+    "在地上走路找種子"
+   ],
+   "sex": "公鳥母鳥長得很像，公鳥頸部的長羽毛比較長。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "印度洋到太平洋的熱帶小島",
+   "like": [
+    "victoria_cp"
+   ],
+   "photos": [
+    {
+     "src": "img/nicobar_pigeon-0.jpg",
+     "label": "",
+     "by": "Bird Explorers",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/57343379",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/nicobar_pigeon-1.jpg",
+     "label": "",
+     "by": "David Bishop",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/489596052",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/nicobar_pigeon-2.jpg",
+     "label": "",
+     "by": "Bird Explorers",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/57343373",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/nicobar_pigeon-3.jpg",
+     "label": "",
+     "by": "FrancescaMarsilli_FilippoRigodanza",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/472767169",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ]
+  },
+  {
+   "id": "pied_ip",
+   "zh": "斑皇鳩",
+   "en": "Pied Imperial Pigeon",
+   "sci": "Ducula bicolor",
+   "cm": 40,
+   "habitat": [
+    "紅樹林",
+    "海岸"
+   ],
+   "intro": "白色的大鴿子，翅膀尖和尾巴尖是黑色的。",
+   "story": "斑皇鳩常常一大群從小島飛到大陸找果子吃，傍晚再飛回島上睡覺，像每天通勤上班。",
+   "cues": [
+    "全身白色",
+    "翅膀尖和尾巴尖黑色",
+    "嘴巴灰色"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "東南亞的海岸、紅樹林和小島",
+   "photos": [
+    {
+     "src": "img/pied_ip-0.jpg",
+     "label": "",
+     "by": "samuelloh2009",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/58248216",
+     "w": 500,
+     "h": 480,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/pied_ip-1.jpg",
+     "label": "",
+     "by": "Dan Brown - Wild Discovery tours",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/748192832",
+     "w": 500,
+     "h": 357,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/pied_ip-2.jpg",
+     "label": "",
+     "by": "Roxanne Lazarus",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/462884714",
+     "w": 333,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/pied_ip-3.jpg",
+     "label": "",
+     "by": "Jason Alexander",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/466318662",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/pied_ip-0.m4a",
+     "kind": "唱歌",
+     "sec": 5,
+     "city": "新加坡",
+     "by": "Kim Chuah Lim",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/654646",
+     "xc": "xeno-canto XC654646"
+    },
+    {
+     "src": "snd/pied_ip-1.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "印尼",
+     "by": "Kim Chuah Lim",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1185568",
+     "xc": "xeno-canto XC1185568"
+    }
+   ]
+  },
+  {
+   "id": "emerald_dove",
+   "zh": "翠翼鳩",
+   "en": "Common Emerald Dove",
+   "sci": "Chalcophaps indica",
+   "cm": 25,
+   "habitat": [
+    "森林底層"
+   ],
+   "intro": "小小的鴿子，翅膀是亮亮的翠綠色，嘴巴是紅色的。",
+   "story": "翠翼鳩在台灣的森林裡也有，但很害羞，常常在步道上快步走過，一下就消失在樹叢裡。",
+   "cues": [
+    "翅膀翠綠色有光澤",
+    "嘴巴紅色",
+    "身體是紫紅色"
+   ],
+   "sex": "公鳥頭頂是灰白色，母鳥頭頂是灰褐色。",
+   "tag": "公母異型",
+   "endemic": false,
+   "alien": false,
+   "home": "印度、東南亞到澳洲的森林，台灣也有",
+   "photos": [
+    {
+     "src": "img/emerald_dove-0.jpg",
+     "label": "公",
+     "by": "祐",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/528550554",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/emerald_dove-1.jpg",
+     "label": "公",
+     "by": "Frank Lin",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/277403743",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/emerald_dove-2.jpg",
+     "label": "公",
+     "by": "呂一起(Lyu yi-chi)",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/109840835",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/emerald_dove-3.jpg",
+     "label": "母",
+     "by": "Shainy",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/457796490",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/emerald_dove-4.jpg",
+     "label": "母",
+     "by": "Shainy",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/398867924",
+     "w": 375,
+     "h": 500,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/emerald_dove-0.m4a",
+     "kind": "唱歌",
+     "sec": 8,
+     "city": "南投縣",
+     "by": "蔡明剛",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/692667",
+     "xc": "xeno-canto XC692667"
+    }
+   ]
+  },
+  {
+   "id": "crested_pigeon",
+   "zh": "澳洲冠鳩",
+   "en": "Crested Pigeon",
+   "sci": "Ocyphaps lophotes",
+   "cm": 33,
+   "habitat": [
+    "草地",
+    "城市"
+   ],
+   "intro": "灰褐色的鴿子，頭上豎著一根細細的黑色冠毛。",
+   "story": "澳洲冠鳩起飛時，翅膀會發出「咻咻」的口哨聲。這個聲音是警報，其他冠鳩聽到就知道有危險。",
+   "cues": [
+    "頭上有一根細長的黑冠",
+    "灰褐色的身體",
+    "翅膀上有閃亮的綠紫色斑"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "澳洲大部分地區",
+   "photos": [
+    {
+     "src": "img/crested_pigeon-0.jpg",
+     "label": "",
+     "by": "Steve Smith",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/574448054",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/crested_pigeon-1.jpg",
+     "label": "",
+     "by": "Jeff Melvaine",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/103697281",
+     "w": 500,
+     "h": 313,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/crested_pigeon-2.jpg",
+     "label": "",
+     "by": "Ry Beaver",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/166581992",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/crested_pigeon-3.jpg",
+     "label": "",
+     "by": "Robin Gwen Agarwal",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/33066668",
+     "w": 500,
+     "h": 350,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/crested_pigeon-0.m4a",
+     "kind": "唱歌",
+     "sec": 12,
+     "city": "澳洲",
+     "by": "Romuald Mikusek",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1180507",
+     "xc": "xeno-canto XC1180507"
+    },
+    {
+     "src": "snd/crested_pigeon-1.m4a",
+     "kind": "叫聲",
+     "sec": 15,
+     "city": "澳洲",
+     "by": "Peter Russell",
+     "license": "CC BY-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "url": "https://xeno-canto.org/496697",
+     "xc": "xeno-canto XC496697"
+    }
+   ]
+  },
+  {
+   "id": "ashy_wp",
+   "zh": "灰林鴿",
+   "en": "Ashy Wood Pigeon",
+   "sci": "Columba pulchricollis",
+   "cm": 36,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "灰黑色的大鴿子，脖子上有一圈淡黃褐色的圍巾。",
+   "story": "台灣的灰林鴿住在中高海拔的山上，常在大樹頂吃果子。牠們飛得很快，翅膀拍得「啪啪」響。",
+   "cues": [
+    "身體深灰色",
+    "脖子有一圈淡黃褐色",
+    "胸口有綠色光澤"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "喜馬拉雅山到台灣的中高海拔森林",
+   "like": [
+    "rock_dove"
+   ],
+   "photos": [
+    {
+     "src": "img/ashy_wp-0.jpg",
+     "label": "",
+     "by": "alderchang",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/593371596",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/ashy_wp-1.jpg",
+     "label": "",
+     "by": "洪廷維",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/90711094",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/ashy_wp-2.jpg",
+     "label": "",
+     "by": "lienhui",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/604467585",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/ashy_wp-3.jpg",
+     "label": "",
+     "by": "Roger Shaw",
+     "license": "CC BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/342673857",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ]
+  },
+  {
+   "id": "violet_turaco",
+   "zh": "紫蕉鵑",
+   "en": "Violet Turaco",
+   "sci": "Musophaga violacea",
+   "cm": 48,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "深紫色的鳥，頭頂是紅色，嘴巴是黃色加紅色。",
+   "story": "蕉鵑翅膀上的紅色非常特別，是含有銅的色素，全世界只有蕉鵑家族有。飛起來的時候，翅膀會閃出一大片紅色。",
+   "cues": [
+    "全身深紫色",
+    "頭頂紅色，嘴巴黃紅色",
+    "飛的時候翅膀露出大片紅色"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "非洲西部的森林",
+   "like": [
+    "green_turaco"
+   ],
+   "photos": [
+    {
+     "src": "img/violet_turaco-0.jpg",
+     "label": "",
+     "by": "Saint Guillaume K. ODOUKPE",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/310714371",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/violet_turaco-1.jpg",
+     "label": "",
+     "by": "Luke Smith",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/454922063",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/violet_turaco-2.jpg",
+     "label": "",
+     "by": "Luke Smith",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/454921662",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/violet_turaco-3.jpg",
+     "label": "",
+     "by": "Maksymilian Wojtkiewicz",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/616358511",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    }
+   ]
+  },
+  {
+   "id": "green_turaco",
+   "zh": "綠冠蕉鵑",
+   "en": "Green Turaco",
+   "sci": "Tauraco persa",
+   "cm": 43,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "亮綠色的鳥，頭上有一個綠色的尖冠，眼睛旁邊有白線。",
+   "story": "綠冠蕉鵑在樹枝上跑跳得很快，像松鼠一樣。牠們綠色的羽毛也很特別，是少數真的有綠色色素的鳥。",
+   "cues": [
+    "全身亮綠色",
+    "頭上有尖尖的綠冠",
+    "飛的時候翅膀有紅色"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "非洲西部和中部的森林",
+   "like": [
+    "violet_turaco"
+   ],
+   "photos": [
+    {
+     "src": "img/green_turaco-0.jpg",
+     "label": "",
+     "by": "tamba_olsai",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/728602620",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/green_turaco-1.jpg",
+     "label": "",
+     "by": "Ricardo Rodero Henández",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/620993139",
+     "w": 500,
+     "h": 400,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/green_turaco-2.jpg",
+     "label": "",
+     "by": "Ton Elzerman",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/611207766",
+     "w": 500,
+     "h": 281,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/green_turaco-3.jpg",
+     "label": "",
+     "by": "Daniel S. Katz",
+     "license": "CC BY",
+     "url": "https://www.inaturalist.org/photos/260567004",
+     "w": 500,
+     "h": 500,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/green_turaco-0.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "布吉納法索",
+     "by": "Marc Languy",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1005768",
+     "xc": "xeno-canto XC1005768"
+    },
+    {
+     "src": "snd/green_turaco-1.m4a",
+     "kind": "唱歌",
+     "sec": 12,
+     "city": "布吉納法索",
+     "by": "Marc Languy",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/992313",
+     "xc": "xeno-canto XC992313"
+    },
+    {
+     "src": "snd/green_turaco-2.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "象牙海岸",
+     "by": "Étienne Leroy",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/704601",
+     "xc": "xeno-canto XC704601"
+    },
+    {
+     "src": "snd/green_turaco-3.m4a",
+     "kind": "警戒聲",
+     "sec": 13,
+     "city": "塞內加爾",
+     "by": "Alain Malengreau",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/862008",
+     "xc": "xeno-canto XC862008"
+    }
+   ]
+  },
+  {
+   "id": "bt_beeeater",
+   "zh": "栗喉蜂虎",
+   "en": "Blue-tailed Bee-eater",
+   "sci": "Merops philippinus",
+   "cm": 30,
+   "habitat": [
+    "開闊地",
+    "水邊"
+   ],
+   "intro": "綠色的小鳥，喉嚨是栗色，尾巴中間有兩根長長的針。",
+   "story": "蜂虎抓到蜜蜂後，會把蜜蜂在樹枝上用力敲，把毒刺弄掉才吃。每年夏天金門都有很多栗喉蜂虎來築巢，在土堆上挖洞當家。",
+   "cues": [
+    "全身綠色，喉嚨栗色",
+    "眼睛有一條黑色眼罩",
+    "尾巴中間有兩根長針"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "南亞和東南亞，金門也有",
+   "photos": [
+    {
+     "src": "img/bt_beeeater-0.jpg",
+     "label": "",
+     "by": "jiajialau",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/682089365",
+     "w": 500,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bt_beeeater-1.jpg",
+     "label": "",
+     "by": "Ben Tsai蔡維哲",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/214109757",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bt_beeeater-2.jpg",
+     "label": "",
+     "by": "Ben Tsai蔡維哲",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/213769401",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/bt_beeeater-3.jpg",
+     "label": "",
+     "by": "洪廷維",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/88979300",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/bt_beeeater-0.m4a",
+     "kind": "唱歌",
+     "sec": 7,
+     "city": "緬甸",
+     "by": "Thet Zaw Naing",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1051076",
+     "xc": "xeno-canto XC1051076"
+    },
+    {
+     "src": "snd/bt_beeeater-1.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "泰國",
+     "by": "Greg Irving",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/937372",
+     "xc": "xeno-canto XC937372"
+    },
+    {
+     "src": "snd/bt_beeeater-2.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "中國",
+     "by": "Geoff Carey",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/741383",
+     "xc": "xeno-canto XC741383"
+    },
+    {
+     "src": "snd/bt_beeeater-3.m4a",
+     "kind": "飛行聲",
+     "sec": 15,
+     "city": "新加坡",
+     "by": "Yeo SB",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/702038",
+     "xc": "xeno-canto XC702038"
+    }
+   ]
+  },
+  {
+   "id": "kookaburra",
+   "zh": "笑翠鳥",
+   "en": "Laughing Kookaburra",
+   "sci": "Dacelo novaeguineae",
+   "cm": 43,
+   "habitat": [
+    "森林",
+    "城市"
+   ],
+   "intro": "大頭的翠鳥，眼睛有一條咖啡色眼罩，叫聲像人在哈哈大笑。",
+   "story": "笑翠鳥是世界上最大的翠鳥之一。牠們一家人會在清晨和傍晚一起「哈哈哈」大笑，宣告這裡是牠們的地盤。",
+   "cues": [
+    "大頭大嘴巴",
+    "眼睛有咖啡色眼罩",
+    "叫聲像人在大笑"
+   ],
+   "sex": "公鳥母鳥長得很像，公鳥屁股上有一點藍色。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "澳洲東部",
+   "like": [
+    "kingfisher"
+   ],
+   "photos": [
+    {
+     "src": "img/kookaburra-0.jpg",
+     "label": "",
+     "by": "Rich Kostecke",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/47133582",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/kookaburra-1.jpg",
+     "label": "",
+     "by": "Gunter Maywald",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/247462440",
+     "w": 500,
+     "h": 404,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/kookaburra-2.jpg",
+     "label": "",
+     "by": "Daniel",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/11123819",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/kookaburra-3.jpg",
+     "label": "",
+     "by": "dirkvdl16",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/434997959",
+     "w": 500,
+     "h": 500,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/kookaburra-0.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "澳洲",
+     "by": "Romuald Mikusek",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1172433",
+     "xc": "xeno-canto XC1172433"
+    },
+    {
+     "src": "snd/kookaburra-1.m4a",
+     "kind": "唱歌",
+     "sec": 8,
+     "city": "澳洲",
+     "by": "Marcin Przymencki",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1085649",
+     "xc": "xeno-canto XC1085649"
+    },
+    {
+     "src": "snd/kookaburra-2.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "澳洲",
+     "by": "Tom Cooney",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1104895",
+     "xc": "xeno-canto XC1104895"
+    },
+    {
+     "src": "snd/kookaburra-3.m4a",
+     "kind": "叫聲",
+     "sec": 8,
+     "city": "澳洲",
+     "by": "Sreekar",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/716894",
+     "xc": "xeno-canto XC716894"
+    },
+    {
+     "src": "snd/kookaburra-4.m4a",
+     "kind": "飛行聲",
+     "sec": 14,
+     "city": "澳洲",
+     "by": "Phil Gregory",
+     "license": "CC BY-NC-SA 3.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+     "url": "https://xeno-canto.org/161062",
+     "xc": "xeno-canto XC161062"
+    }
+   ]
+  },
+  {
+   "id": "lb_crow",
+   "zh": "巨嘴鴉",
+   "en": "Large-billed Crow",
+   "sci": "Corvus macrorhynchos",
+   "cm": 50,
+   "habitat": [
+    "森林",
+    "山區"
+   ],
+   "intro": "全身黑色的大烏鴉，嘴巴又粗又厚。",
+   "story": "烏鴉是最聰明的鳥之一。日本的巨嘴鴉會把堅果丟在馬路上，等汽車壓碎再去吃。",
+   "cues": [
+    "全身黑色",
+    "嘴巴又粗又厚",
+    "叫聲是沙啞的「啊—啊」"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "亞洲東部和南部，台灣山區也有",
+   "photos": [
+    {
+     "src": "img/lb_crow-0.jpg",
+     "label": "",
+     "by": "jitensha2021",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/397646652",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/lb_crow-1.jpg",
+     "label": "",
+     "by": "Andrew",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/681978422",
+     "w": 500,
+     "h": 253,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/lb_crow-2.jpg",
+     "label": "",
+     "by": "ryotaro_suzuki",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/260530706",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/lb_crow-3.jpg",
+     "label": "",
+     "by": "hdmiller",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/58977407",
+     "w": 500,
+     "h": 350,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/lb_crow-0.m4a",
+     "kind": "唱歌",
+     "sec": 11,
+     "city": "南投縣",
+     "by": "David Farrow",
+     "license": "CC BY-NC-SA 3.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+     "url": "https://xeno-canto.org/42631",
+     "xc": "xeno-canto XC42631"
+    },
+    {
+     "src": "snd/lb_crow-1.m4a",
+     "kind": "叫聲",
+     "sec": 15,
+     "city": "桃園市",
+     "by": "Jerome Chie-Jen Ko",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1028681",
+     "xc": "xeno-canto XC1028681"
+    },
+    {
+     "src": "snd/lb_crow-2.m4a",
+     "kind": "叫聲",
+     "sec": 14,
+     "city": "南投縣",
+     "by": "蔡明剛",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/692669",
+     "xc": "xeno-canto XC692669"
+    },
+    {
+     "src": "snd/lb_crow-3.m4a",
+     "kind": "飛行聲",
+     "sec": 4,
+     "city": "台中市",
+     "by": "Sam Hambly",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/977042",
+     "xc": "xeno-canto XC977042"
+    }
+   ]
+  },
+  {
+   "id": "brahminy_kite",
+   "zh": "栗鳶",
+   "en": "Brahminy Kite",
+   "sci": "Haliastur indus",
+   "cm": 48,
+   "habitat": [
+    "海岸",
+    "水邊"
+   ],
+   "intro": "背是栗紅色、頭和胸口是白色的老鷹。",
+   "story": "在印度，栗鳶被當成神鳥。牠們常在港口和河口盤旋，撿漁船丟掉的魚吃。",
+   "cues": [
+    "背和翅膀栗紅色",
+    "頭和胸口白色",
+    "尾巴尖端是圓的"
+   ],
+   "sex": "公鳥母鳥長得一樣。年輕的鳥全身褐色。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "印度、東南亞到澳洲的海岸和河口",
+   "like": [
+    "kite"
+   ],
+   "photos": [
+    {
+     "src": "img/brahminy_kite-0.jpg",
+     "label": "",
+     "by": "Nur Khoirinnisaa",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/453151759",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/brahminy_kite-1.jpg",
+     "label": "",
+     "by": "jeff_in_the_wild",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/451735478",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/brahminy_kite-2.jpg",
+     "label": "",
+     "by": "wais delfi alkaran",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/540573491",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/brahminy_kite-3.jpg",
+     "label": "",
+     "by": "sofiane mimouni",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/674358010",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/brahminy_kite-4.jpg",
+     "label": "幼鳥",
+     "by": "Mitch Rose",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/238261102",
+     "w": 500,
+     "h": 348,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/brahminy_kite-0.m4a",
+     "kind": "叫聲",
+     "sec": 15,
+     "city": "印度",
+     "by": "Sathyan Meppayur",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/743675",
+     "xc": "xeno-canto XC743675"
+    },
+    {
+     "src": "snd/brahminy_kite-1.m4a",
+     "kind": "飛行聲",
+     "sec": 5,
+     "city": "印尼",
+     "by": "Indra Kusuma",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/1180261",
+     "xc": "xeno-canto XC1180261"
+    }
+   ]
+  },
+  {
+   "id": "tawny_fowl",
+   "zh": "黃魚鴞",
+   "en": "Tawny Fish Owl",
+   "sci": "Ketupa flavipes",
+   "cm": 58,
+   "habitat": [
+    "溪流",
+    "森林"
+   ],
+   "intro": "黃褐色的大貓頭鷹，頭上有兩撮像耳朵的毛，眼睛是黃色的。",
+   "story": "黃魚鴞是會抓魚的貓頭鷹！牠們的腳沒有長毛，腳底有尖刺，可以牢牢抓住滑溜溜的魚。台灣的黃魚鴞住在山區乾淨的溪流旁。",
+   "cues": [
+    "黃褐色的大貓頭鷹",
+    "頭上有兩撮耳羽",
+    "黃色的大眼睛"
+   ],
+   "sex": "公鳥母鳥長得一樣，母鳥比較大。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "喜馬拉雅山到台灣的山區溪流",
+   "like": [
+    "scops",
+    "brown_wo"
+   ],
+   "photos": [
+    {
+     "src": "img/tawny_fowl-0.jpg",
+     "label": "",
+     "by": "Andy Frank",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/341996399",
+     "w": 500,
+     "h": 358,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/tawny_fowl-1.jpg",
+     "label": "",
+     "by": "govjay",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/693987316",
+     "w": 500,
+     "h": 430,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/tawny_fowl-2.jpg",
+     "label": "",
+     "by": "T P Anantheswaran",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/350644739",
+     "w": 500,
+     "h": 375,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/tawny_fowl-3.jpg",
+     "label": "",
+     "by": "Jayant M Deshpande",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/216180321",
+     "w": 336,
+     "h": 500,
+     "retrieved": "2026-11"
+    }
+   ]
+  },
+  {
+   "id": "brown_wo",
+   "zh": "褐林鴞",
+   "en": "Brown Wood Owl",
+   "sci": "Strix leptogrammica",
+   "cm": 50,
+   "habitat": [
+    "森林"
+   ],
+   "intro": "深褐色的貓頭鷹，臉是圓盤狀，眼睛周圍有一圈白色的眉毛，沒有耳羽。",
+   "story": "褐林鴞的叫聲很低沉，像「呼—呼呼」。台灣的褐林鴞很少見，鳥友常常要找很多次才能遇到一次。",
+   "cues": [
+    "深褐色，圓圓的臉",
+    "眼睛周圍有白色眉毛",
+    "沒有耳朵形狀的毛"
+   ],
+   "sex": "公鳥母鳥長得一樣。",
+   "tag": "公母同型",
+   "endemic": false,
+   "alien": false,
+   "home": "南亞、東南亞到台灣的中低海拔森林",
+   "like": [
+    "tawny_fowl"
+   ],
+   "photos": [
+    {
+     "src": "img/brown_wo-0.jpg",
+     "label": "",
+     "by": "usaviah",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/354697819",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/brown_wo-1.jpg",
+     "label": "",
+     "by": "usaviah",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/354893535",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/brown_wo-2.jpg",
+     "label": "",
+     "by": "曾郁哲",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/689608023",
+     "w": 333,
+     "h": 500,
+     "retrieved": "2026-11"
+    },
+    {
+     "src": "img/brown_wo-3.jpg",
+     "label": "",
+     "by": "usaviah",
+     "license": "CC BY-NC",
+     "url": "https://www.inaturalist.org/photos/397995615",
+     "w": 500,
+     "h": 333,
+     "retrieved": "2026-11"
+    }
+   ],
+   "sounds": [
+    {
+     "src": "snd/brown_wo-0.m4a",
+     "kind": "唱歌",
+     "sec": 14,
+     "city": "南投縣",
+     "by": "Kuan-Chieh (Chuck) Hung, Taiwanbirdguide.com",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/614376",
+     "xc": "xeno-canto XC614376"
+    },
+    {
+     "src": "snd/brown_wo-1.m4a",
+     "kind": "唱歌",
+     "sec": 8,
+     "city": "宜蘭縣",
+     "by": "Sunny Tseng",
+     "license": "CC BY-NC-SA 4.0",
+     "licUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+     "url": "https://xeno-canto.org/637210",
+     "xc": "xeno-canto XC637210"
+    }
+   ]
   }
  ]
 }
