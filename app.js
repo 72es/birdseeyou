@@ -293,9 +293,41 @@
       <section class="rhead"><div class="pane">${glassSVG(rid, PALETTES[r.tone] || PALETTES.mist, 300, 400)}</div><div><p class="eyebrow">${r.kind === "zoo" ? "動物園的鳥" : "賞鳥區"}</p><h2>${esc(r.name)}</h2><p class="full">${esc(r.full)}</p><p class="tg">${esc(r.tagline)}</p></div></section>
       <dl class="glass double info">${r.info.map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${esc(v)}${k === "交通" && r.map ? `<a class="maplink" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(r.map)}" target="_blank" rel="noopener">在 Google 地圖打開 ↗</a>` : ""}${k === "開放" && r.site ? `<a class="maplink" href="${esc(r.site)}" target="_blank" rel="noopener">出發前看官方公告 ↗</a>` : ""}</dd></div>`).join("")}</dl>
       ${r.tips && r.tips.length ? `<ul class="glass tips">${r.tips.map(t => `<li>${esc(t)}</li>`).join("")}</ul>` : ""}
+      <div class="offline glass" id="offline" data-rid="${rid}"><span class="ol-txt">準備離線中…</span><button type="button" class="linkbtn ol-snd" hidden>也存叫聲</button></div>
       <section class="missions"><h3>今天的任務鳥 <span class="muted" style="font-size:13px">${nowSeason()}天・先找容易遇到的</span></h3>${mis ? `<div class="mrow">${mis}</div>` : `<p class="empty">這一季的鳥都收集到了，太厲害了！</p>`}</section>
       ${secs}
     </main>`;
+    prefetchRegion(rid);
+  }
+
+  /* ---------- offline: opening a region quietly saves that region's photos; sounds are saved on request ---------- */
+  const fetched = new Set();
+  async function isCached(u) { try { return !!(await caches.match(new URL(u, location.href).href)); } catch (e) { return false; } }
+  async function saveAll(list, onStep) {
+    let done = 0, i = 0;
+    const work = async () => { while (i < list.length) { const u = list[i++];
+      if (!fetched.has(u) && !(await isCached(u))) { try { const r = await fetch(u); if (r.ok) { await r.blob(); fetched.add(u); } } catch (e) {} }
+      else fetched.add(u);
+      onStep(++done, list.length); } };
+    await Promise.all([work(), work(), work(), work()]);
+  }
+  async function prefetchRegion(rid) {
+    const box = $("#offline"); if (!box || !("caches" in window) || !navigator.serviceWorker || !navigator.serviceWorker.controller) { if (box) box.hidden = true; return; }
+    const ids = regionBirdIds(REGIONS[rid]);
+    const photos = ids.flatMap(id => BIRDS[id].photos.map(p => p.src));
+    const sounds = ids.flatMap(id => (BIRDS[id].sounds || []).map(x => x.src));
+    const txt = box.querySelector(".ol-txt"), btn = box.querySelector(".ol-snd");
+    const here = () => location.hash.startsWith("#/r/" + rid);
+    const sndLeft = async () => { let n = 0; for (const u of sounds) if (!fetched.has(u) && !(await isCached(u))) n++; return n; };
+    const showSnd = async () => { if (!here()) return; const n = await sndLeft();
+      btn.hidden = !n; btn.textContent = `也存 ${sounds.length} 段叫聲（約 ${Math.max(1, Math.round(sounds.length * 0.1))} MB）`;
+      if (!n && sounds.length) txt.textContent = "這區的照片和叫聲都存好了，沒網路也能看、也能聽"; };
+    btn.onclick = async () => { btn.hidden = true;
+      await saveAll(sounds, (d, t) => { if (here()) txt.textContent = `存叫聲中… ${d} / ${t}`; });
+      if (here()) { txt.textContent = "這區的照片和叫聲都存好了，沒網路也能看、也能聽"; } };
+    if (navigator.onLine === false) { txt.textContent = "現在沒有網路，已經存過的照片還是看得到"; return; }
+    await saveAll(photos, (d, t) => { if (here()) txt.textContent = d < t ? `正在存這區的照片，讓沒網路也能看… ${d} / ${t}` : "這區的照片存好了，沒網路也能看"; });
+    showSnd();
   }
 
   // 3 missions: in season, not collected yet, easiest first (common → seasonal → lucky), data-listed missions first within a tier

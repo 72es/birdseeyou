@@ -338,3 +338,6 @@ body.noscroll{overflow:hidden}
 .snd-item .city{font-size:12px;color:var(--muted);line-height:1}
 .bhead .home{margin:4px 0 0;font-size:14px;color:var(--ink);display:flex;gap:8px;align-items:baseline}
 .bhead .home b{font-size:12px;font-weight:600;background:var(--amber);border:1.5px solid var(--lead);border-radius:999px;padding:0 8px;flex:none}
+.offline{display:flex;flex-wrap:wrap;align-items:center;gap:4px 12px;padding:8px 14px;font-size:13px;color:var(--muted)}
+.offline[hidden]{display:none}
+.offline .ol-snd{font-size:13px;padding:0}
